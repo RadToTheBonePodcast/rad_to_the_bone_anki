@@ -6,9 +6,9 @@
 
 ###
 
-<p align="left">
-ᯤ Spotify: [Listen](https://open.spotify.com/show/4cuV2XlvlATz2igpJVV9Vf)
-ANKI DECK: [Download](https://drive.google.com/file/d/1JCI2R0zKS2hLgO0gAWzDm22pZR5BrrC4/view?usp=sharing)
+- Spotify: [Listen](https://open.spotify.com/show/4cuV2XlvlATz2igpJVV9Vf)
+- Anki deck: [Download](https://drive.google.com/file/d/1JCI2R0zKS2hLgO0gAWzDm22pZR5BrrC4/view?usp=sharing)
+
 
 
 
