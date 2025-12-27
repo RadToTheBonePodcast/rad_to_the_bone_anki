@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Download the <a href='https://drive.google.com/file/d/1JCI2R0zKS2hLgO0gAWzDm22pZR5BrrC4/view?usp=sharing'>Anki Deck</a></p>
+<p align="left">Download the <a href='https://drive.google.com/file/d/1JCI2R0zKS2hLgO0gAWzDm22pZR5BrrC4/view?usp=sharing' target="_blank" rel="noopener noreferrer">Anki Deck</a></p>
 
 ###
 
