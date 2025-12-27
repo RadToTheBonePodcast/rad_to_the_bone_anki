@@ -1,0 +1,1088 @@
+video_question,question_text,question_image,question_image_source,question_source_name,answer_text,answer_image,answer_image_source,answer_source_name,domain,topic,subtopic,audio_confirmed,active_card,note_id
+FALSE,"What happens in subclavian steal syndrome?
+What flow changes occur?",,,,"In subclavian steal syndrome, there is decreased flow and pressure distal to the stenosis or obstruction.
+This results in compensatory retrograde flow from the ipsilateral vertebral artery in order to supply blood flow to the upper extremity.
+This can sometimes cause basilar artery stroke like symptoms such as, dizziness, vertigo, ataxia, and double vision. These symptoms are more likely to occur with upper extremity exercise.
+",,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,0
+FALSE,"In subclavian steal syndrome, where is an obstruction or stenosis most commonly located within the artery?",,,,"In subclavian steal syndrome, an obstruction or stenosis occurs in the proximal subclavian artery, and specifically proximal to the take off of the vertebral artery.
+If the occlusion is distal to the vertebral artery, a subclavian steal is not possible.
+",,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,1
+FALSE,"Can a subclavian steal syndrome, occur if the occlusion is distal to the vertebral artery origin?
+
+",,,,"No.
+The occlusion must be proximal to the vertebral artery for a subclavian steal syndrome to occur.
+",,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,2
+FALSE,"Which side or laterality, is subclavian steal most likely to occur on?
+
+",,,,"Subclavian steal occurs more often on the left, compared to the right.
+",,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,3
+FALSE,"What is the typical treatment of subclavian steal syndrome?
+",,,,"Angioplasty, and stent placement.",,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,4
+FALSE,"What are the typical symptoms of posterior fossa-tumor?
+",,,,"Headache, nausea, and ataxia.",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,5
+FALSE,"What is the most common, posterior fossa brain tumor in adults overall?
+And, what is the most common, primary posterior fossa tumor in adults?
+",,,,"The most common posterior fossa tumor overall in adults, are mets.
+And the most common posterior fossa primary brain tumor in adults are hemangioblastomas, which typically occur in the cerebellum.
+",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,6
+TRUE,"This is an MR brain of a 45 year old male with persistent nausea and vomiting.
+What is this lesion?
+What else could be considered in the differential?","0006a.png, 0006b.png, 0006c.png, 0006d.png",https://radiopaedia.org/cases/cerebellar-haemangioblastoma-4,The Radswiki,"Axial T2WI shows a posterior fossa cystic lesion, with post-contrast images demonstrating an enhancing mural nodule.
+This lesion is compatible with a hemangioblastoma.
+Other differentials include mets, particularly melanoma, renal cell carcinoma, and thyroid carcinoma.
+If central diffusion restriction was present, an abscess could be considered.
+If this patient were younger, a pilocytic astrocytoma could also be considered.",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,7
+FALSE,"What are the top three most common, posterior fossa brain tumors, in children,
+where are they typically located, and what are their imaging features?
+",,,,"The most common posterior fossa brain tumors in children are medulloblastomas, which are malignant.
+Medulloblastomas tend to occur at the midline cerebellar vermis, and are hypercellular lesions, which will cause diffusion restriction.
+Because medulloblastomas are midline, they can often obstruct CSF flow in the region of the 4th ventricle, and cause hydrocephalus.
+The next most common posterior fossa brain tumor in children, are pilocytic astrocytomas.
+Pilocytic astrocytomas, are typically located in a single cerebellar hemisphere, and are often cystic with an enhancing mural nodule.
+Ependymomas, are the third most common posterior fossa brain tumor in children.
+Ependymomas arise within the 4th ventricle, and can also cause hydrocephalus.
+",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,8
+FALSE,"Can you name a less common posterior fossa brain tumor in children, that typically involves the brainstem?
+",,,,"Brainstem gliomas are less common posterior fossa brain tumors in children compared to medulloblastomas, pilocytic astrocytomas, and ependymomas.
+Brainstem gliomas typically involve the pons and will cause enlargement without a discrete mass.
+",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,9
+FALSE,Where are hemangioblastomas typically located in the posterior fossa?,,,,"Hemangioblastomas are most often seen in the cerebellum, up to 80% of the time.
+Although rare, they can occasionally be seen in the brainstem.
+",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,10
+FALSE,"Okay?-get ready!
+This next one will be a long and detailed answer.
+What are the typical MR features of a hemangioblastoma?
+What differentials must be considered?",,,,"Hemangioblastomas typically appear either as a cyst with a mural nodule or as a completely solid enhancing mass.
+They often have vascular flow voids within or at the periphery of the lesion.
+Hemangioblastomas do not demonstrate diffusion restriction.
+The imaging features of a cyst with a mural nodule is the typical appearance, and occur in about 60% of cases.
+A solid-enhancing mass is the other variant and occurs around 40% of the time.
+The differentials of these masses depend on the overall appearance.
+If the posterior fossa mass is cystic with a mural nodule, then a pilocytic astrocytoma can be considered.
+However, pilocytic astrocytomas are more commonly seen in children and young adults.
+The nodule enhancement is less intense and more heterogeneous in pilocytic astrocytomas, compared to hemangioblastomas.
+Metastatic lesions can also be considered if there is a cyst and a mural nodule in the posterior fossa of an adult.
+The metastatic lesions that typically have this appearance are melanoma and renal cell carcinoma.
+The apparent cyst is often due to necrosis, rather than a true cyst.
+An abscess could also be cystic in the posterior fossa.
+However, an abscess will show diffusion restriction due to the debris within it.
+This is a key feature, because hemangioblastomas do not restrict diffusion.
+Gangliogliomas can sometimes appear cystic with a mural nodule. However, these are typically supratentorial.
+These are all the differentials of a posterior fossa cyst with a mural nodule.
+Now we will discuss the differential diagnoses of a solid enhancing posterior fossa mass, including: hemangioblastomas, meningiomas, metastatic lesions, and paragangliomas.
+A meningioma is an extra-axial enhancing mass with a characteristic dural tail and is often found in the region of the cerebellopontine angle.
+Metastatic lesions are the most common brain lesions in the posterior fossa of an adult.
+In cases where there's a single solid enhancing mass, it may be challenging to differentiate between a hemangioblastoma and a solitary hypervascular metastatic lesion.
+The typical hypervascular metastatic lesions are renal cell carcinomas, thyroid cancers, and melanomas.
+Paragangliomas can also appear as a solid enhancing mass in the posterior fossa, but are typically in the region of the jugular foramen, and will have a heterogeneous salt-and-pepper appearance.",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,11
+FALSE,"What age range do intracranial hemangioblastomas, most commonly occur?
+",,,,Brain hemangioblastomas are typically seen in patients between 30 and 60 years of age.,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,12
+FALSE,"What congenital disease is associated with brain and spinal cord hemangioblastomas?
+",,,,Von Hippel-Lindau disease,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,13
+FALSE,"If you see a brain hemangioblastoma, not, in the posterior fossa, what underlying disease, might the patient have?
+",,,,Von Hippel-Lindau disease,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,14
+FALSE,"Patients with Von Hippel-Lindau disease more commonly develop what-kind-of brain and spinal cord tumors?
+
+",,,,"Patients with Von Hippel-Lindau disease, more commonly develop Hemangioblastomas, and they can sometimes appear supratentorial, and even occur around the optic nerves.
+",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,15
+TRUE,"
+This is an MR brain of a 66 year old male with headaches and ataxia?
+What is this lesion?","0007a.png, 0007b.png, 0007c.png, 0007d.png",https://radiopaedia.org/cases/cerebellar-abscess,Frank Gaillard,"There is a mass in the left cerebellum, with T2 hyperintensity and rim enhancement, which also demonstrates abnormal diffusion restriction, confirmed on ADC (not shown in these images).
+This is concerning for a posterior fossa abscess.
+Also, notice the dilated occipital horns on the coronal view, suggesting obstructive hydrocephalus. ",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,16
+FALSE,"What brain lesions, are associated with tuberous sclerosis?",,,,"Subcortical tubers, subependymal nodules, and subependymal giant cell astrocytomas.",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,17
+FALSE,"What two brain lesions, are associated with neurofibromatosis type 1? ",,,,"Neurofibromas, and optic nerve gliomas.",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,18
+FALSE,"What three brain lesions, are associated with neurofibromatosis type 2? ",,,,"Meningiomas, ependymomas, and schwannomas.",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,19
+FALSE,"Is gadolinium-typically chelated?
+",,,,"Yes, gadolinium is chelated. Free, non-chelated gadolinium, is very toxic.
+",,,,Noninterpretive Skills,Contrast,contrast,TRUE,TRUE,20
+FALSE,"Is typical intravenous iodinated contrast, ionic, or non-ionic? What are some examples, of ionic iodinated contrast used today? 
+
+
+",,,,"Ionic iodinated contrast is old, and rarely used today.
+Ionic contrast is composed of iodine ions, and was associated with increased hypersensitivity reactions, higher nephro-toxicity, more irritation to the veins, and unable to be used intrathecally.
+Non-ionic iodinated contrast on-the-other-hand, is typically used today.
+It is covalently bound, and does not dissociate, making it much more stable, and less likely to cause hypersensitivity reactions.
+The older ionic iodinated contrast, is much more radiodense compared to the newer, non-ionic iodinated contrast we use today.
+Ionic iodinated contrast can still be found today as Gastrografin and Conray, and is almost exclusively used for oral or rectal studies.
+
+",,,,Noninterpretive Skills,Contrast,contrast,TRUE,TRUE,21
+FALSE,"What is the difference between high-osmolar, low-osmolar, and iso-osmolar contrast medias?
+",,,,"High-osmolality contrast media agents includes older ionic iodinated contrast agents, such as Gastrografin, Conray, and Isopaque.
+Most common IV contrast agents, are low-osmolality contrast media agents, such as Omnipaque.
+The osmolality, of low-osmolality contrast media agents is, 600, to 900 milliosmoles per kilogram.
+This is higher than human blood osmolality, but much lower than the high osmolality contrast media agents, where the osmolality is between, 1500, and 2000 milliosmoles per kilogram.
+Iso-osmolar contrast media agents are also non-ionic, and the same iso-osmolarity as blood plasma around, 290 milliosmoles per kilogram.
+An example of an iso-osmolar contrast agent is, visipaque.",,,,Noninterpretive Skills,Contrast,contrast,TRUE,TRUE,22
+FALSE,"In stroke, what does the term, benign oligemia mean?",,,,"
+Benign oligemia, is a term used to describe brain tissue ischemia effects that will likely recover regardless of treatment.
+",,,,Neuroradiology,Brain,stroke,TRUE,TRUE,23
+FALSE,"What is, the ischemic penumbra?",,,,"The penumbra, is the area with abnormal perfusion characteristics, but no restricted diffusion, and is at risk for infarct, but not infarcted at the time of imaging, and represents salvageable brain tissue.
+",,,,Neuroradiology,Brain,stroke,TRUE,TRUE,24
+FALSE,"What MRI sequence, can detect increased deoxyhemoglobin, in a vessel lumen? 
+",,,,"Susceptibility-weighted imaging sequences, can detect increased deoxyhemoglobin in a vessel lumen.",,,,Neuroradiology,Brain,stroke,TRUE,TRUE,25
+FALSE,"What type of acute hemorrhage, is not detected on SWI? What type of hemoglobin, is not detected with susceptibility-weighted imaging?
+",,,,"In cases of hyper-acute hemorrhage, the hemoglobin is still oxygenated as oxy-hemoglobin, which has no unpaired electrons, and is diamagnetic, and therefore does not create enough local magnetic field distortion to be detected with susceptibility-weighted imaging.
+SWI detects paramagnetic distortions like deoxyhemoglobin, met-hemoglobin, hemosiderin, ferritin, and calcium. Hemosiderin and ferritin have the strongest susceptibility distortion on SWI.
+Calcium is diamagnetic and causes less susceptibility distortions compared to iron.
+",,,,Neuroradiology,Brain,stroke,TRUE,TRUE,26
+FALSE,"In stroke perfusion imaging, what does TTP, time to peak, indicate? 
+",,,,"TTP, is the time it takes for the contrast to reach its maximum enhancement, at a particular voxel.
+An elevated TTP, indicates delayed arrival of blood, this is typically due to flow limiting stenosis, obstruction, or collateral circulation. 
+
+",,,,Neuroradiology,Brain,stroke,TRUE,TRUE,27
+FALSE,"If a stroke perfusion CT, demonstrates a focal area of elevated TTP, is that finding specific to only ischemic strokes?
+",,,,"TTP, is sensitive in detecting ischemic strokes, but many other things can cause elevated TTP as well.
+So, TTP is, not specific for ischemic strokes.
+",,,,Neuroradiology,Brain,stroke,TRUE,TRUE,28
+FALSE,"In stroke perfusion imaging, what does CBV, cerebral blood volume, indicate?
+",,,,"CBV indicates the total volume of blood within a given brain tissue region, defined as milliliters of blood, per 100 grams of brain.
+This value gives an idea of how much residual blood is within the microvasculature. If there is normal, or elevated CBV, in a region of elevated TTP, this indicates that the collateral blood volume is maintained, which is called the ischemic penumbra.
+If the CBV is low in a region of elevated TTP, this indicates there is not enough collateral flow to perfuse that region of brain, and there is a core infarct.
+",,,,Neuroradiology,Brain,stroke,TRUE,TRUE,29
+FALSE,"In stroke perfusion imaging, what does CBF, cerebral blood flow, indicate? 
+",,,,"CBF, is the rate at which blood flows through the brain tissue measured as milliliters per 100 grams of brain per minute.
+This value indicates the actual perfusion efficiency.
+Regions of low CBF, and normal CBV, indicates an ischemic penumbra.
+While a region of low CBF, and low CBV, indicates a core infarct.
+",,,,Neuroradiology,Brain,stroke,TRUE,TRUE,30
+FALSE,"In stroke perfusion imaging, what does MTT, mean transit time, indicate?
+",,,,"MTT, indicates how long blood takes to pass through a given region of brain.
+It is calculated by, CBV, divided by CBF.
+Regions of elevated MTT can indicate areas of delayed blood flow, and possible salvageable brain tissue in the ischemic penumbra.
+MTT will be normal, or shorter in areas of a core infarct.
+",,,,Neuroradiology,Brain,stroke,TRUE,TRUE,31
+FALSE,"In stroke perfusion imaging, if the mean transit time is prolonged, and the cerebral brain volume is normal, what does this indicate about the underlying brain tissue?
+",,,,"Prolonged MTT, and normal CBV, indicates ischemic penumbra, which may be salvageable. 
+
+",,,,Neuroradiology,Brain,stroke,TRUE,TRUE,32
+FALSE,"In stroke perfusion imaging, if the mean transit time is prolonged, and the cerebral brain volume is low, what does this indicate about the underlying brain tissue?
+",,,,"Prolonged MTT, and a corresponding low CBV, indicates a core infarct.
+",,,,Neuroradiology,Brain,stroke,TRUE,TRUE,33
+FALSE,"In stroke perfusion imaging, if the mean transit time is relatively normal, but the CBF is low, what does this indicate about the underlying brain tissue?
+",,,,"Relatively normal MTT, and low CBF, can indicate chronic disease, or water-shed areas with lower perfusion pressures.
+
+",,,,Neuroradiology,Brain,stroke,TRUE,TRUE,34
+FALSE,"A child with choanal atresia, may have other associated congenital anomalies.
+What is the name for this constellation of abnormalities?
+",,,,"Charge Syndrome.
+Which consist of: Coloboma, Heart disease, Choanal Atresia, retardation, genital abnormalities, and ear anomalies.
+",,,,Neuroradiology,Peds,peds,TRUE,TRUE,35
+FALSE,"What vomer width measurement, on CT imaging in a child, is considered suggestive of choanal atresia?
+",,,,"6 millimeters or less in width.
+",,,,Neuroradiology,Peds,peds,TRUE,TRUE,36
+FALSE,What are the common presenting symptoms of an infant with subependymal heterotopia?,,,,"Seizures, and developmental delay.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,37
+FALSE,"How do subependymal tubers, differ from subependymal heterotopia?",,,,"Subependymal tubers are glial hamartomas, seen in tuberous sclerosis, typically lining the ventricles and often with calcifications.
+Subependymal heterotopia are displaced normal neurons, that form ectopic gray-matter nodules along the ventricular walls, representing a neuronal-migration disorder, rather than a hamartoma.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,38
+FALSE,"Which of these brain lesions typically calcify?
+Subependymal tubers, or subependymal heterotopia?
+
+
+",,,,"Subependymal tubers, almost always calcify (up to 98%), while subependymal heterotopia, are not associated with calcifications.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,39
+FALSE,"Why are cases of subependymal heterotopia more common in females?
+",,,,"Subependymal heterotopia, is often caused by a mutation in the FLNA gene on the X chromosome, which is critical for actin cytoskeleton stability and neuronal migration.
+Because the disorder is X-linked, males who inherit the mutation typically do not have a normal, second X chromosome to compensate, leading to non-viability in-utero.
+As a result, surviving cases overwhelmingly occur in females (over 90% of cases).
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,40
+FALSE,"What other anatomical abnormality is commonly associated with subependymal heterotopia?
+",,,,"Polymicrogyria, is the most common associated abnormality with subependymal heterotopia.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,41
+FALSE,"How are peri-ventricular nodular heterotopia, PNH, different from subependymal heterotopia?
+
+",,,,"They refer to the same entity.
+Peri-ventricular nodular heterotopia, PNH, is the formal term for subependymal heterotopia, describing ectopic gray-matter nodules lining the ventricular walls due to failed neuronal migration.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,42
+FALSE,"In craniopharyngiomas, what are the typical bi-modal distribution age peaks?
+
+
+
+",,,,"Craniopharyngiomas, most commonly occur in children from 5 to 14 years, and in adults from 50 to 75 years of age.
+",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,43
+FALSE,"What is the peak age range, for pituitary macroadenomas?
+",,,,"Pituitary macroadenomas most often occur in adults, with the peak incidence between 30 and 60 years of age.
+Macroadenomas are uncommon in children.
+",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,44
+FALSE,"What MRI characteristics help differentiate craniopharyngiomas from pituitary macroadenomas?
+
+",,,,"Craniopharyngiomas are suprasellar in origin, and are typically mixed cystic and solid lesions, with heterogeneous enhancement.
+They contain calcifications in up to 90% of cases.
+Pituitary macroadenomas on-the-other-hand, arise from the sella and extend superiorly as they enlarge.
+They are generally solid and demonstrate homogeneous enhancement.
+Macroadenomas rarely contain calcifications.",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,45
+FALSE,"What are the MRI features, of primary CNS lymphoma?
+Describe the typical location, T2 signal, enhancement, and diffusion restriction.",,,,"Primary CNS lymphoma typically occurs in deep periventricular regions of the brain, and is classically iso-intense or mildly hypo-intense on T1 and T2-weighted imaging with surrounding vasogenic edema.
+A hallmark feature is its avid, homogenous enhancement, accompanied by marked diffusion restriction.
+Primary CNS lymphoma, typically does not contain internal hemorrhage or calcifications.
+
+
+","0122a.png, 0122b.png, 0122c.png, 0122d.png",https://radiopaedia.org/cases/primary-cns-lymphoma-57,Keshaw Kumar,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,46
+FALSE,"How do steroids affect the imaging and diagnosis, of primary CNS lymphoma?
+",,,,"Steroids can cause primary CNS lymphoma to shrink rapidly or temporarily disappear, creating a major diagnostic challenge.
+Because the lesion regresses before biopsy, tissue sampling may become non-diagnostic; delaying or obscuring the correct diagnosis.
+",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,47
+FALSE,"What part of the brain should be investigated, when a patient presents with an upward gaze palsy?
+What is this syndrome called?
+",,,,"This is called Parinaud syndrome, where an upward gaze palsy localizes to the dorsal midbrain, particularly the tectal region and superior colliculus.
+
+",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,48
+FALSE,"When talking about the venous system of the brain.
+What is a Falcine sinus?",,,,"The Falcine sinus, is a fetal remnant structure that is persistent in about 2% of adults.
+The falcine sinus drains into the superior sagittal sinus, and usually arises from the vein of Galen or-straight sinus.
+",0123.png,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,49
+FALSE,"If a patient has a vein of Galen aneurysm, what venous anomaly is often present?
+",,,,A persistent falcine sinus is often present.,0123.png,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,50
+FALSE,"What is a common cardiac complication, that occurs in cases of vein of Galen malformation, and some brain AVMs?",,,,"Brain AVMs and especially vein of Galen malformations often have cardiac complications with high-output congestive heart failure due to the left-to-right shunt.
+
+",,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,51
+FALSE,"Are seizures a common presentation in brain AVMs?
+",,,,"Not usually. Unless the AVM is located along the cortex.
+The most common presentation of a brain AVM is intracranial hemorrhage. ",,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,52
+FALSE,"What is the difference between, brain AVMs, and AVFs?
+
+",,,,"Prolonged MTT, and normal CBV, indicates ischemic penumbra, which maybe salvageable. 
+
+",,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,53
+FALSE,"
+Are dural AVFs, congenital, or acquired?
+What are the main causes?
+",,,,"Dural AVFs are acquired. And most commonly develop secondarily to dural sinus thrombosis, trauma, prior surgery, or infection.
+",,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,54
+FALSE,How is a Vein of Galen malformation treated?,,,,"A Vein of Galen malformation is treated by neuro-interventionalist, using angiography or venography, with embolization of the shunt, utilizing glue, coils, or some other embolization material. ",,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,55
+FALSE,"
+Can you name three cystic odontogenic lesions?
+
+And how about two common benign odontogenic tumors?",,,,"Three common cystic odontogenic lesions are: radicular cysts (also called periapical cysts), dentigerous cysts, and odontogenic keratocysts.
+Two common benign odontogenic tumors are odontomas, and ameloblastomas.",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,56
+TRUE,What is this odontogenic lesion?,0001.png,https://radiopaedia.org/cases/keratocystic-tumour-of-mandible,Oliver Hennessy,"There is a mildly expansile unilocular lytic-lesion in the right mandibular angle with imaging characteristics of an odontogenic keratocyst, or possibly an ameloblastoma.",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,57
+FALSE,"Are odontogenic keratocysts, benign, or malignant?
+Where do they most commonly occur?",,,,"Odontogenic keratocysts (previously called, keratocystic odontogenic tumors) are benign bone lesions, which have been recently classified as cystic lesions.
+They overwhelmingly occur in the posterior mandible, they can also sometimes occur in the maxilla.
+",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,58
+FALSE,What is the typical age range of odontogenic keratocysts? And what are common presenting symptoms?,,,,"Odontogenic keratocysts typically occur in patients between the ages of 20 and 40 years old.
+These lesions are commonly discovered incidentally.
+However, if they are symptomatic, there will often be jaw pain, and possible swelling.",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,59
+FALSE,"Should odontogenic keratocyst be surgically removed?
+",,,,"Yes. Odontogenic keratocysts require surgical treatment because of their locally aggressive behavior.
+These lesions can have a high rate of recurrence after removal.",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,60
+FALSE,"Should an odontogenic keratocyst (OKC), be followed with imaging after surgery?
+
+",,,,"Yes, Long-term follow-up is mandatory because recurrence rates are high.
+Imaging with panoramic dental x-ray or a CT is typically obtained at 6 to 12 months after surgery, and then annually for several years.
+",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,61
+FALSE,What congenital syndrome is classically associated with odontogenic keratocysts?,,,,"Gorlin syndrome (also called Nevoid Basal Cell Carcinoma Syndrome) is the congenital syndrome classically associated with odontogenic keratocysts.
+",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,62
+FALSE,"Can you think of five lesions or imaging-features that are associated with Gorlin Syndrome?
+",,,,"Multiple odontogenic keratocysts of the jaw, numerous basal cell carcinomas, medulloblastomas, falx-cerebri calcifications, and skeletal anomalies (like bifid ribs, and scoliosis).",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,63
+TRUE,What is this lesion?,0002.png,https://radiopaedia.org/cases/dentigerous-cyst,Frank Gaillard,"Dentigerous cyst
+
+The CT axial images show a well circumscribed cystic space around the ""crown"" of an unerupted third molar, extending to the cementoenamel junction.
+This is the characteristic appearance of a dentigerous cyst.",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,64
+TRUE,How to potentially differentiate between a periapical granuloma and a radicular cyst?,"0010a.png, 0010b.png",https://radiopaedia.org/cases/periapical-cyst-1,Bruno Di Muzio,"Both periapical granulomas and radicular cysts appear as periapical lucencies. In general, a periapical granuloma is less corticated and smaller in size (less than 1 centimeter), compared to radicular cysts, which are well corticated and often larger in size (greater than 1 centimeter). Periapical granulomas can be symptomatic and painful, whereas radicular cysts are often asymptomatic.",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,65
+FALSE,What is a dentigerous cyst?,,,,"A dentigerous cyst is a cystic lesion that develops around the crown of an unerupted or impacted tooth, most commonly a mandibular third molar.
+In these cases, the tooth typically has a fully formed crown but incompletely developed roots.",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,66
+FALSE,"What imaging features can help differentiate an odontogenic keratocyst, from a dentigerous cyst.
+",,,,"A dentigerous cyst always envelops the crown of an impacted tooth, and attachment is at the cementoenamel junction.
+Dentigerous cyst have more outward buccolingual expansion.
+Odontogenic keratocyst may be near an impacted tooth, but do not arise from the cementoenamel junction, and expansion is usually minimal.
+Growth is typically antero-posterior, or parallel, along the axis of the bone, rather than outward.",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,67
+TRUE,What is this lesion?,"0012a.png, 0012b.png",Neuroradiology Imaging: Case Review Series (2016) (ISBN: 9780323417266),Salvatore V. Labruzzo; Laurie A. Loevner; Efrat Saraf-Lavi; David M. Yousem,"CT axial imaging with a soft tissue and bone kernel demonstrates a well-circumscribed lesion within the right mandible, oriented in the long axis, and not associated with a carious tooth. This is likely an odontogenic keratocyst (formerly known as a keratocystic odontogenic tumor). A unicameral bone cyst could also be considered.",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,68
+TRUE,What is this lesion?,0003.png,https://radiopaedia.org/cases/ameloblastoma01,Frank Gaillard,"This multi-planar reconstruction CT, demonstrates an expansile, well-circumscribed lesion, with internal septations, suggestive of an ""ameloblastoma"".
+",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,69
+FALSE,What is an ameloblastoma?,,,,"Ameloblastomas are locally-aggressive benign tumors that often arise from the mandible.
+",0003.png,https://radiopaedia.org/cases/ameloblastoma01,Frank Gaillard,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,70
+FALSE,"Ameloblastomas often appear cystic and multi-locular on imaging.
+Why then are they not considered a cystic odontogenic lesion?",,,,"Ameloblastomas fall under the category of benign odontogenic tumors.
+It is a solid neoplasm that undergoes cystic degeneration, producing its characteristic multi-loculated cyst-like appearance. 
+Often mimicking true cysts like odontogenic keratocysts, or dentigerous cysts.
+",0003.png,https://radiopaedia.org/cases/ameloblastoma01,Frank Gaillard,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,71
+FALSE,"What imaging features can help differentiate between an odontogenic keratocyst and an ameloblastoma?
+",,,,"Ameloblastomas can appear more loculated, with a “soap-bubble” appearance, and will have much more cortical expansion and thinning compared to OKCs.",0003.png,https://radiopaedia.org/cases/ameloblastoma01,Frank Gaillard,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,72
+FALSE,"What imaging features can help differentiate an odontogenic keratocyst, from a simple unicameral bone cyst in the mandible?
+",,,,"Both lesions can have endosteal scalloping. However, a simple bone cyst can have scalloping that occurs between the roots and does not displace the teeth or cause expansion.
+Compared to odontogenic keratocysts, which also have scalloping but does not occur between the roots, and can be expansile displacing teeth.",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,73
+TRUE,What is this lesion?,"0008a.png, 0008b.png, 0008c.png, 0008d.png",https://radiopaedia.org/cases/nasopalatine-duct-cyst-5,Katia Kaplan-List,MR images show a cystic lesion along the anterior hard palate of the maxilla with rim enhancement consistent with a nasopalatine duct cyst.,,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,74
+TRUE,What is this lesion?,"0004a.png, 0004b.png, 0004c.png
+",https://radiopaedia.org/cases/stafne-cyst-4,Neil Lall,"This is a stafne bone defect.
+
+CT axial and coronal views of the mandible show well-circumscribed remodeling of the medial cortex of the mandible with a small portion of the submandibular gland extending into the defect.
+This is a benign finding called a, Stafne bone defect.",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,75
+FALSE,What is a Stafne bone defect?,,,,"A Stafne bone defect is a cortical defect in the posterior mandible below the mandibular canal, representing a depression in the medial aspect of the mandible filled by part of the submandibular gland, or adjacent fat.
+It occurs due to remodeling, caused by adjacent soft tissues, most commonly the submandibular gland.","0004a.png, 0004b.png, 0004c.png
+",https://radiopaedia.org/cases/stafne-cyst-4,Neil Lall,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,76
+TRUE,What is this lesion?,"0005a.png, 0005b.png, 0005c.png",https://radiopaedia.org/cases/odontoma-compound-1,Ian Bickle,"CT axial views show a well circumscribed lesion in the right maxilla, containing heterogeneous densities, and several discernable tooth like elements.
+The adjacent teeth roots are being splayed.
+This is an example of an odontoma, and because there are visible tooth elements, such as enamel and cementum within the lesion, this is a ""compound"" odontoma.
+",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,77
+FALSE,What is an odontoma?,,,,"An odontoma, is essentially a hamartoma of tooth-forming tissues.
+Odontomas specifically form tooth tissue; not bone.",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,78
+FALSE,What are the two main categories that odontomas can be classified into based on their appearance?,,,,"""Compound"" odontomas, which contain identifiable tooth components.
+And ""complex"" odontomas, which contain irregular calcified lesions with no distinct tooth components.
+",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,79
+FALSE,"What is the typical definitive management of a dentigerous cyst?
+And what about ameloblastomas and odontomas?",,,,"Dentigerous cysts, ameloblastomas, and odontomas, all require surgical resection.
+
+",,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,80
+TRUE,"CT imaging of a 20-year-old male.
+What is this incidental finding?","0009a.png, 0009b.png, 0009c.png, 0009d.png
+",https://radiopaedia.org/cases/nasopalatine-duct-cyst-8,Hani M. Al Salam,There is a non-enhancing cystic lesion in the anterior midline hard palate consistent with a nasopalatine duct cyst.,,,,Neuroradiology,Head & Neck,odontogenic lesions,TRUE,TRUE,81
+TRUE,"What is this?
+What are the top differential causes?","0011a.png, 0011b.png
+",Neuroradiology Imaging: Case Review Series (2016) (ISBN: 9780323417266),Salvatore V. Labruzzo; Laurie A. Loevner; Efrat Saraf-Lavi; David M. Yousem,"This is a compression deformity called ""vertebra plana.""
+The posterior elements and disc space are usually intact, which differentiates this from a traumatic or degenerative etiology.
+The top differentials include Langerhans cell histiocytosis (also called eosinophilic granuloma), leukemia and lymphoma, infection, and metastatic disease.
+",,,,Neuroradiology,Peds,peds,TRUE,TRUE,82
+FALSE,Most common cause of vertebra plana in children less than 16 years old?,"0011a.png, 0011b.png",,,"In children, the most common cause of vertebra plana is Langerhans cell histiocytosis.",,,,Neuroradiology,Peds,peds,TRUE,TRUE,83
+FALSE,"What is the most common osseous site for Langerhans cell histiocytosis?
+What other locations can be involved?",,,,"Langerhans cell histiocytosis most commonly involves the skull, and the parietal bone is the most frequent bone involved, followed by the frontal and occipital bones. Other sites outside of the skull include the mandible, vertebrae, ribs, and pelvis.",,,,Neuroradiology,Peds,peds,TRUE,TRUE,84
+FALSE,Which spinal level is most commonly involved in vertebral Langerhans cell histiocytosis?,,,,The thoracic vertebrae are most frequently involved in cases of langerhans cell histiocytosis.,,,,Neuroradiology,Peds,peds,TRUE,TRUE,85
+FALSE,"This lateral radiograph of the thoracic spine shows vertebra plana caused by Langerhans cell histiocytosis.
+What is the typical management of these cases?",0016.png,statdx,,"Conservative management.
+Vertebroplasty is not effective in these cases.",,,,Neuroradiology,Peds,peds,TRUE,TRUE,86
+FALSE,How do Langerhans cell histiocytosis skull lesions appear on a nuclear medicine bone scan?,0013.png,statdx,,"A Technetium-99 MDP (Methylene Diphosphonate) scan can show focal areas of radiotracer uptake.
+However, in the skull, there are often focal areas of decreased uptake.",,,,Neuroradiology,Peds,peds,TRUE,TRUE,87
+FALSE,What is the most common cause of multiple lytic lesions without a sclerotic rim in the skull of a child?,0014.png,statdx,,Langerhans cell histiocytosis,,,,Neuroradiology,Peds,peds,TRUE,TRUE,88
+TRUE,What are these bone lesions?,"0015a.png, 0015b.png",https://radiopaedia.org/cases/osteopoikilosis-12,Arvind Aggarwal,Numerous benign enostoses. This is osteopoikilosis.,,,,Neuroradiology,Peds,peds,TRUE,TRUE,89
+FALSE,What other brain imaging findings are associated with cavernous malformations?,"0017a.png, 0017b.png",https://radiopaedia.org/cases/cavernous-haemangioma-brain,Frank Gaillard,Developmental venous anomalies,,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,90
+FALSE,"Are cavernous malformations, always formed from a previous developmental venous anomaly?",,,,"No not always.
+But, the chronic venous hypertension within a DVA can result in a cavernous malformation sometimes.",,,,Neuroradiology,Brain,vascular abnormalities,TRUE,TRUE,91
+FALSE,"How are sequences for gradient echo imaging (GRE) and T2WI different?
+How does GRE cause increased sensitivity to magnetic susceptibility compared to conventional T2WI?",,,,"A typical T2 sequence contains a 90-degree excitation pulse, followed by a 180-degree refocusing pulse.
+Where a ""GRE sequence"" only contains the 90-degree excitation pulse and no refocusing pulse.
+Let me explain in more detail.
+Elemental materials such as iron and calcium, along with air-to-bone interfaces, cause small local magnetic changes which cause varying precession rates of nearby tissues.
+Any varying precession-rate from the uniform precession frequency, determined by B-0 causes a loss of signal.
+Which is precisely what you want when looking for blood with a GRE sequence.
+A T2 sequence will add a 180-degree refocusing pulse, essentially flipping the precession rates, so a precession rate that was previously slower is now faster, and a precession rate that was previously faster is now slower, effectively evening out the precession rate and eliminating signal loss, making a beautiful T2-weighted image.
+In summary, a T2 sequence contains the 90-degree excitation pulse followed by a 180-refocusing pulse, which corrects for the local magnetic field inhomogeneities caused by iron, calcium and air.
+Where a GRE sequence contains the 90-degree excitation pulse, without a refocusing pulse allowing the local magnetic field inhomogeneities to remain as low signal indicating regions of possible blood.",,,,Physics,MR physics,MR physics,TRUE,TRUE,92
+FALSE,"Which is more sensitive in detecting susceptibility artifacts, SWI or T2-star GRE? ",,,,"SWI is almost 4 times more sensitive than T2-star GRE.
+T2-star GRE uses the magnitude of signal intensity.
+While SWI combines magnitude and phase data to make more sensitive imaging.
+",,,,Physics,MR physics,MR physics,TRUE,TRUE,93
+FALSE,What are the top three most common 4th ventricle masses in children?,,,,"In children, the top three most common masses involving the 4th ventricle are ependymomas, medulloblastomas, and choroid plexus papillomas. 
+Ependymomas are the most common true intraventricular mass, often containing calcifications, and are often heterogeneous with cysts or elements of hemorrhage.
+Choroid Plexus Papillomas have frond, or feathery-leaf-like enhancement, and can cause hydrocephalus due to excess CSF production.
+They are more often found in the lateral ventricles of young children and in the 4th ventricle of older children.
+Medulloblastomas do not actually arise from the 4th ventricle, but instead arise from the cerebellar vermis and will grow into the 4th ventricle. 
+Medulloblastomas are homogeneous in appearance and are highly cellular, meaning there will be abnormal diffusion restriction.
+",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,94
+FALSE,What virus is associated with choroid plexus papillomas and ependymomas?,,,,Simian virus 40,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,95
+FALSE,What virus is associated with progressive multifocal leukoencephalopathy?,,,,JC virus,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,96
+FALSE,What neurologic abnormality is associated with JC virus?,,,,Progressive multifocal leuko-encephalopathy,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,97
+FALSE,What three pathologies are associated with the Epstein-Barr virus?,,,,"Nasopharyngeal carcinoma, Burkitt lymphoma, and Hodgkin disease.",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,98
+FALSE,"Following radiation therapy, what is the typical time frame for the development of calcified lymph nodes to appear on follow-up imaging?",,,,"Initially, in the first three to six months, signs of necrosis will appear, and there will be central necrosis represented by a central low density and rim enhancement.
+Later at 6 to 12 months, amorphous calcifications will begin to form within the lymph node and will continue calcify over the next few years. ",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,99
+FALSE,"In thyroid-eye-disease, the extraocular rectus muscles become inflamed and thickened in a predictable pattern.
+What is the typical order of extraocular muscle involvement?",,,,"With thyroid eye disease, use the mnemonic, ""I'm, slow."" Inferior, medial, superior, lateral, and oblique rectus muscles. ",,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,100
+FALSE,"Are the tendinous insertions of the extraocular muscles typically involved in thyroid eye disease?
+What diseases typically involves the tendinous insertions of the extraocular muscles?",,,,"Thyroid eye disease, characteristically spares the tendinous insertion of the extra-occular muscles.
+Eye diseases that often involve the tendons include, orbital pseudotumor, orbital IGG-4-related disease, granulomatous orbital inflammation (as seen in sarcoidosis and granulomatosis-with-polyangiitis). ",,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,101
+FALSE,When would a patient with thyroid eye disease require surgical intervention?,,,,"Rarely is there a need for surgical intervention, the few instances are when there is risk of optic nerve damage.
+In these cases, a medial orbital wall decompression is performed.
+Where the bones of the orbital wall are removed, usually the medial and/or inferior orbital walls which creates more space and reduces tension on the optic nerve. 
+In some cases the proptosis is so pronounced the eyelids cannot fully close leading to exposure keratitis and a similar procedure can be performed.",,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,102
+FALSE,"What happens in thyroid eye disease?
+Are cases of thyroid eye disease more common in hypothyroidism or hyperthyroidism?",,,,"Thyroid eye disease more commonly occurs in cases of hyperthyroidism.
+Up to 90% of cases of thyroid eye disease occur in patients with hyperthyroidism Grave's disease.
+In Grave's disease, the immune system mistakenly produces thyrotropin receptor antibodies which mimic thyroid stimulating hormone causing hyperthyroidism.
+These same thyrotropin receptor antibodies also inflame the extra-occular muscles.
+This is because the fibroblasts which reside in between the extra-occular muscle fibers also contain TSH receptors.
+The fibroblast then undergo adipogenesis and turn into fat cells and produce a large amount of glycosaminoglycans increasing the extra-occluar muscle size and edema.
+Thyroid eye disease can sometimes be caused in cases of euthyroid where there are circulating antibodies but the T3, T4, and TSH levels are normal.
+Although very rare, thyroid eye disease can sometimes be seen in cases of hypothyroidism from Hashimoto's thyroiditis due to increased stimulation of the TSH receptors of the extra-occular muscle fibroblasts.
+In cases of thyroid eye disease from Hashimoto's the symptoms are often less severe and more likely to be unilateral or asymmetric.",,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,103
+FALSE,"What is the most common cause of bilateral exophthalmos in adults?
+What about unilateral exophthalmos?",,,,"The most common cause of both unilateral and bilateral exophthalmos in adults is thyroid eye disease.
+Although thyroid eye disease can be unilateral, most cases are bilateral, up to 90% of cases.",,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,104
+FALSE,"In most cases of thyroid eye disease the diagnosis has already been made before imaging is obtained.
+Why is imaging performed in these cases. What is being evaluated? ",,,,The question that imaging is meant to answer in cases of thyroid eye disease is the presence of optic nerve compression by the enlarged extraocular muscles.,,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,105
+TRUE,What is going on this CT of the orbits?,"0018a.png, 0018b.png",https://radiopaedia.org/cases/thyroid-associated-orbitopathy-7,Frank Gaillard,"CT of the orbits shows enlargement of the superior, inferior and medial rectus muscles bilaterally.
+There is characteristic sparing of the tendinous insertions.
+This is consistent with thyroid eye disease (also called thyroid-associated orbitopathy).",,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,106
+TRUE,"This patient has thyroid eye disease, what procedure has been performed?",0019.png,https://radiopaedia.org/cases/graves-ophthalmopathy-and-orbital-decompression-surgery,"Thyroid eye disease more commonly occurs in cases of hyperthyroidism.
+Up to 90% of cases of thyroid eye disease occur in patients with hyperthyroidism Grave's disease.
+In Grave's disease, the immune system mistakenly produces thyrotropin receptor antibodies which mimic thyroid stimulating hormone causing hyperthyroidism.
+These same thyrotropin receptor antibodies also inflame the extra-ocular muscles.
+This is because the fibroblasts which reside in between the extra-ocular muscle fibers also contain TSH receptors.
+The fibroblast then undergo adipogenesis and turn into fat cells and produce a large amount of glycosaminoglycans increasing the extra-occluar muscle size and edema.
+Thyroid eye disease can sometimes be caused in cases of euthyroid where there are circulating antibodies but the T3, T4, and TSH levels are normal.
+Although very rare, thyroid eye disease can sometimes be seen in cases of hypothyroidism from Hashimoto's thyroiditis due to increased stimulation of the TSH receptors of the extra-ocular muscle fibroblasts.
+In cases of thyroid eye disease from Hashimoto's the symptoms are often less severe and more likely to be unilateral or asymmetric.","This CT shows enlargement of the extraocular muscles, status post inferior and medial orbital wall decompression.",,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,107
+TRUE,"This patient has thyroid eye disease.
+What do the arrows on this coronal MR STIR sequence indicate?",0020.png,statdx,,The rectus muscle hyperintensity on STIR indicates active inflammation in this patient with thyroid eye disease.,,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,108
+TRUE,"This patient has a prior history of thyroid eye disease.
+What do these coronal MR T1WI and STIR images indicate?","0021a.png, 0021b.png",statdx,,"The extra-occular muscles appear small in size.
+The T1WI shows fatty infiltration, and the STIR images show no hyperintensity.
+These findings are suggestive of chronic fibrosis of the extra-occular muscles following thyroid eye disease.",,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,109
+FALSE,"Thyroid eye disease can be characterised on MR as either acute or chronic.
+What features make it appear acute or chronic?",,,,"In acute inflammation with thyroid eye disease there will be avid enhancement and increased T2 hyperintensity representing edema.
+In chronic thyroid eye disease there will be fibrosis with fatty infiltration within the extra-occular muscles and they will not demonstrate T2 hyperintensity.",,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,110
+TRUE,What is this?,"0022a.png, 0022b.png",https://radiopaedia.org/cases/orbital-pseudotumour,Frank Gaillard,"Unilateral enlargement of the right lateral rectus muscle with involvement of the tendinous insertion.
+These findings are not typical of thyroid eye disease, and are consistent with idiopathic orbital inflammation (also called orbital pseudotumor), which is a non-specific inflammatory condition involving the extra-occular muscles. ",,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,111
+FALSE,"What are the most common mimics idiopathic orbital inflammation, also called orbital pseudotumor?",,,,"IGG-4 related ophthalmic disease is by far the most common mimic of idiopathic orbital inflammation (accounting for up to 25  to 50% of cases).
+Thyroid eye disease can sometimes have an atypical appearance and can also mimic idiopathic orbital inflammation.
+Other less common mimics of idiopathic orbital inflammation to consider are granulomatosis with polyangiitis, sarcoidosis, lupus along with other rheumatologic conditions, and low-grade lymphoma.",,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,112
+TRUE,"This patient with Vogt-Koyanagi-Harada syndrome has thickening of the posterior orbit.
+Which structures are particularly involved?
+What is the major concern for the eyes in this condition?",0023.png,https://link.springer.com/article/10.1007/s00234-018-1999-z,Tomohiro Ando,"In this rare systemic autoimmune condition (Vogt-Koyanagi-Harada syndrome), the immune system targets melanocytes, causing vitiligo, headaches, and vision changes.
+In this MR of the orbits there is inflammation and thickening of choroid and Tenon's capsule.
+The major concern is retinal detachment due to the extensive inflammation of the posterior orbit.",,,,Neuroradiology,Head & Neck,orbit,TRUE,TRUE,113
+FALSE,What are some key imaging features in Dandy-Walker malformation?,,,,"A small cerebellar vermis which is rotated upwards with cystic dilation of the fourth ventricle and expansion of the skull to accommodate the enlarged posterior fossa.
+The enlargement of the posterior fossa is often described by torcular-lambdoid inversion, where the torcula is positioned above the lambdoid suture.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,114
+FALSE,How often is hydrocephalus seen in cases of Dandy-Walker malformation?,,,,"Hydrocephalus occurs often in cases of Dandy-Walker malformation, up to 75% of the time. This is more than ataxia or any other symptomatic presentation.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,115
+FALSE,"At what gestational age does the cerebellar vermis begin to form?
+In what orientation does it form?",,,,The cerebellar vermis begins to form at week 7 and develops from superior to inferior.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,116
+FALSE,At what gestational age does the choroid plexus form and start making CSF?,,,,The choroid plexus forms and starts making CSF around weeks 8 and 9.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,117
+FALSE,"At what gestational week does the superior cerebellar vermis fuse?
+When does the inferior cerebellar vermis fuse?",,,,"The superior cerebellar vermis fuses at week 9, and the inferior vermis fuses around week 15.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,118
+FALSE,"When does the Foramen of Magendie form?
+Where does it perforate from?
+",,,,"The Foramen of Magendie perforates from the posterior membranous area of the fourth ventricle roof, by first making a Blake's pouch that initially bulges and then perforates through around weeks 12 and 13.",0024.png,https://surgicalneurologyint.com/surgicalint-articles/blakes-pouch-cyst/,"Waleed A. Azab
+",Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,119
+FALSE,At what gestational week do the Foramina of Luschka form?,,,,The foramen of Luschka form around weeks 16 and 17.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,120
+TRUE,"What are these angles called?
+What ranges are considered normal, and which suggest a Dandy-Walker malformation?",0026.png,https://www.ajnr.org/content/43/10/1488," Picado A, Llorens Salvador R ","First there is an inverted-""V"" which is the tegmentovermian angle.
+Tegmentum, means ""covering"" in Latin, and vermis, meaning ""worm"".
+A normal tegmentovermian angle is less than 10 degrees.
+If the angle is greater than 40 degrees, this raises suspicion for an abnormality such as Dandy-Walker malformation.
+Next there is a wider angle along the ventral aspect of the cerebellum representing the fastigial recess angle. Normally this angle is less than 90 degrees.
+However when it becomes obtuse, this can raise suspicion for a Dandy-Walker malformation also.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,121
+FALSE,"Which cerebellar developmental abnormality underlies a Dandy Walker malformation?
+",,,,"In a Dandy-Walker malformation the cerebellum is underdeveloped and the inferior cerebellar vermis fails to fuse.
+This causes a large dilated communication between the fourth ventricle and the subarachnoid space.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,122
+FALSE,"What causes a Blake's pouch cyst to form?
+How is this mechanism different from Dandy-Walker malformation?",,,,"A Blake’s pouch cyst forms from failure or delayed fenestration of the foramen of Magendie, causing a enlarging Blake’s pouch which becomes cystic.
+The cerebellum is otherwise normally formed and the posterior fossa is not abnormally expanded.
+In Dandy–Walker malformation, the primary defect is abnormal development of the cerebellar vermis, leading to an enlarged fourth ventricle and an expanded posterior fossa.
+Both of these entities can result in hydrocephalus.","0027a.png, 0027b.png","Volpe's Neurology of the Newborn (Seventh Edition) - 2025, Pages 89-121",Joseph J. Volpe,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,123
+TRUE,What is wrong with the cerebellum here?,0028.png,https://radiopaedia.org/cases/isolated-inferior-vermian-hypoplasia,Sepehr Haghighi,"The inferior cerebellar vermis is underdeveloped.
+This can be seen in Dandy Walker malformation or in cases of isolated inferior vermian hypoplasia. 
+For this to be Dandy-Walker there would also need to be cystic dilation of the 4th ventricle, upward rotation of the cerebellum and enlargement of the posterior fossa.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,124
+FALSE,What is the arbitrary measurement used to determine when cerebellar tonsil extension below the foramen magnum is suggestive of a Chiari Type 1 abnormality.,,,,"Greater than 5 mm is compatible with a Chiari type 1 abnormality.
+However, inferior displacement of the cerebellar tonsils at 6 and 7 mm is not always pathologic.
+If there's no CSF effacement, syringomyelia, or clinical symptoms, it may be physiologic cerebellar tonsillar ectopia.
+",0029.png,https://radiopaedia.org/cases/cerebellar-tonsillar-position-illustration?lang=us,Frank Gaillard,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,125
+FALSE,In a Chiari abnormality what does the presences of syringomyelia indicate?,,,,"In a Chiari malformation, the presence of syringomyelia indicates obstruction of CSF flow at the foramen magnum.
+It indicates there is a pressure dissociation between intracranial and spinal subarachnoid spaces driving fluid into the spinal cord parenchyma.
+When this occurs, conservative management is typically not helpful, and a suboccipital decompression is required.",0030.png,https://radiopaedia.org/cases/chiari-i-malformation-with-syrinx-1,Mostafa Elfeky,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,126
+FALSE,What abnormality of the C2 dens process can be associated with a chiari type 1 malformation?,,,,A Retroverted dens,0031.png,"The Retroverted Dens: A Review of its Anatomy, Terminology, and Clinical Significance",Basem Ishak,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,127
+FALSE,By what mechanism can Crouzon syndrome contribute to a Chiari malformation? What are other features seen with Crouzon syndrome?,,,,"Crouzon syndrome (also called craniofacial dysostosis) is a congenital disease where there is an autosomal dominant mutation of the fibroblast-growth-factor-receptor-2.
+This mutation causes extensive premature suture closures of the calvarium and particularly of the coronal sutures.
+Essentially the small skull forces the brain to protrude inferiorly.
+Additional Crouzon syndrome features include brachycephaly (where the skull is short from front to back), hypertelorism (increased distance between the eyes), orbital proptosis, and bifid uvula.
+The hands and feet are normal, which differentiates this disease from other synostoses.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,128
+FALSE,How can the position of the taenia-tela choroidea complexes be used to differentiate a Dandy-Walker malformation from a Blake pouch cyst?,,,,"In Dandy-Walker malformation, the taenia–tela choroidea complex are displaced downward and laterally, reflecting vermian agenesis and there is an enlarged posterior fossa.
+In a Blake pouch cyst, the taenia–tela choroidea complex remains in a normal or near-normal position, because the cerebellar vermis and posterior fossa are normally developed.",0032.png,"Figure 4.20 from Chapter 4 of Volpe's Neurology of the Newborn (Seventh Edition) - 2025, Pages 89-121",Joseph J. Volpe,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,129
+FALSE,"What is the typical initial surgical management of syringomyelia in cases of a chiari type 1 malformation? If the syringomyelia continues, what other surgical procedure can be performed?",,,,"In cases of syringomyelia due to a chiari malformation conservative management is typically not helpful and a suboccipital decompression is required.
+If the suboccipital decompression isn't enough in opening up the space of the foramen magnum, a duraplasty is the next option to increase the space for CSF to flow.",0033.png,Operative Neurosurgery  February 2023 - Volume 24 - Issue 2 https://journals.lww.com/onsonline/toc/2023/02000,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,130
+FALSE,What are typical symptoms of a Chiari type 1 malformation?,,,,Posterior headaches and imbalance.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,131
+FALSE,Is a lumbo-sacral myelomeningocele always seen with a chiari type 2 malformation?,0034.png,https://radiopaedia.org/cases/myelomeningocele-3,Augusto César Vieira Teixeira,"Yes, a lumbosacral myelomeningocele is the cause of the of Chiari type 2 malformation.
+If the myelomeningocele no longer present, that's because it has been prepared.",0035.png,https://radiopaedia.org/cases/chiari-ii-malformation-3,Frank Gaillard,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,132
+TRUE,"What is this?
+What are the distinguishing features?",0035.png,https://radiopaedia.org/cases/chiari-ii-malformation-3,Frank Gaillard,"This is a Chiari type 2 malformation.
+The posterior fossa is small and the tentorial attachment is low posteriorly.
+The tectum is beaked and there is hydrocephalus.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,133
+TRUE,What is the cause of this patients syringomyelia?,0036.png,https://radiopaedia.org/cases/chiari-ii-malformation-3,Frank Gaillard,"The low lying cerebellum and inferior insertion of the posterior tentorium indicates a chiari malformation.
+There is likely poor CSF flow through the foramen magnum causing a pressure differential, causing fluid to move from the spinal subarachnoid space and into the spinal cord.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,134
+FALSE,What is the exact mechanism behind a syrinx formation in Chiari malformation?,0036.png,https://radiopaedia.org/cases/chiari-ii-malformation-3,Frank Gaillard,"The pressure within the thecal sac and the cranium are near equal, even when there is obstruction of bidirectional CSF flow at the foramen magnum.
+The issue becomes with each heartbeat there is a slight relative increase in pressure of the subarachnoid CSF surrounding the spinal cord.
+This relative increase in pressure, slowly drives fluid within the spinal cord, forming the syrinx.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,135
+FALSE,If a syrinx remains untreated what clinical neurological deficits can develop?,0037.png,Orthopedic Manifestations of Syringomyelia: A Comprehensive Review,Mohamad Fadila,"An untreated syrinx can result in progressive spinal cord injury, which included sensory loss, progressive motor weakness, spasticity, and autonomic dysfunction causing issues with bowel, and bladder function.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,136
+FALSE,How common is hydrocephalus with Chiari Type 2 malformation?,0035.png,https://radiopaedia.org/cases/chiari-ii-malformation-3,Frank Gaillard,"Almost all cases of Chiari type 2 will have hydrocephalus.
+Usually due to aqueductal stenosis or foramina of Magendie and Luschka obstructions.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,137
+TRUE,"This is a neonatal head ultrasound, transverse view.
+What is this?
+What is it associated with?
+",0038.png,,,"This neonatal head ultrasound demonstrates interdigitation of gyri which can be associated with Chiari type 2 malformations.
+This is an example on of gyri interdigitation on MR.",0039.png,"Raybaud, C., Miller, E. (2008). Radiological Evaluation of Myelomeningocele — Chiari II Malformation. In: The Spina Bifida. Springer, Milano. https://doi.org/10.1007/978-88-470-0651-5_9","Raybaud, C., Miller, E. ",Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,138
+TRUE,What is the abnormality here on this fetal ultrasound?,0040.png,https://radiopaedia.org/cases/myelomeningocoele,Maulik S Patel,There is a cystic lesion in the lumbar-region indicating a myelomeningocele.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,139
+TRUE,What is this?,0041.png,https://radiopaedia.org/cases/chiari-iii-malformation-with-occipital-encephalocele-1,Mostafa Elfeky,"There is an occipital meningoencephalocele with a portion of posterior fossa contents and overlying meninges are herniating through a defect in the occipital region forming a cystic structure.
+There is also hydrocephalus.
+The occipital or high cervical encephalocele containing herniating brain contents is a required feature of Chiari type 3 malformations.
+ ",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,140
+FALSE,Is hydrocephalus a required feature of Chiari 3 malformations?,0041.png,https://radiopaedia.org/cases/chiari-iii-malformation-with-occipital-encephalocele-1,Mostafa Elfeky,"No.
+Hydrocephalus is common, but not a required feature.
+However, an occipital or high cervical encephalocele containing herniated brain contents is a required feature of Chiari type 3 malformations.
+Corpus callosum dysgenesis is also a common feature of Chiari type 3 malformations.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,141
+TRUE,What is this?,0043.png,https://radiopaedia.org/cases/rhombencephalosynapsis-3,Magdi Mahsoub,This is Rhombencephalosynapsis characterised by fused cerebellar hemispheres and absent cerebellar vermis.,0042.png,https://radiopaedia.org/cases/rhombencephalosynapsis-3,Magdi Mahsoub,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,142
+FALSE,"What type of hydrocephalus would you expect to see in Rhombencephalosynapsis?
+What other birth defects are associated with Rhombencephalosynapsis?",0042.png,https://radiopaedia.org/cases/rhombencephalosynapsis-3,Magdi Mahsoub,"Rhombencephalosynapsis is typically associated with hydrocephalus of the lateral ventricles, and third ventricle, while the 4th ventricle is normal.
+This is often due to aqueductal stenosis.
+Rhombencephalosynapsis is also associated with VACTERL birth defects.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,143
+TRUE,What is this lesion?,"0044a.png, 0044b.png, 0044c.png",,,"This is a benign osteolipoma. Positioned in the typical location of the suprasellar cistern. The signal loss on the T1 fat-saturated sequence help clinch the diagnosis. This is benign and does not require any additional follow-up.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,144
+TRUE,What is this?,0045.png,,,This is a case of Dandy-Walker malformation. Notice the small and incompletely formed cerebellum and how it is displaced and rotated upwards and counter-clockwise. There is also agenesis of the corpus callosum which is common and occurs in up to 50% of cases.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,145
+TRUE,What is this?,0046.png,,,"This is a case of open-lip Schizencephaly. The Gray-matter–lined cleft extends into the ventricle with full communication, differentiating it from a closed-lip Schizencephaly.
+",0047.png,"Herrera Ortiz, Andrés & Ortiz, Héctor. (2021). Open Lip Schizencephaly: A Case Report.. Revista Cuarzo. 26. 27-29. 10.26752/cuarzo.v26.n2.510. ",,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,146
+FALSE,What are the symptoms associated with unilateral schizencephaly vs. bilateral schizencephaly?,,,,"It is reported that seizures are more common with unilateral Schizencephaly, while developmental delays are more commonly associated with bilateral Schizencephaly.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,147
+FALSE,"Patients with neurofibromatosis type 1 have an increased incidence of pilocytic astrocytomas.
+Where are pilocytic astrocytomas typically located?
+Where are pilocytic astrocytomas typically located in patients with NF1?
+",0049.png,https://radiopaedia.org/cases/pilocytic-astrocytoma-14,Bruno Di Muzio,"The typical location of a pilocytic astrocytoma is in the cerebellum.
+In patients with NF-1 a more common location of a pilocytic astrocytoma to occur is along the optic nerve and optic chiasm.",0048.png,"Chourmouzi, Danai & Papadopoulou, Elissabet & Konstantinidis, Manolis & Syrris, Vasileios & Kouskouras, Konstantinos & Haritanti, Afroditi & Karkavelas, George & Drevelegas, Antonios. (2014). Manifestations of pilocytic astrocytoma: A pictorial review. Insights into imaging. 5. 10.1007/s13244-014-0328-2. ",,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,148
+TRUE,What is this?,"0050a.png, 0050b.png, 0050c.png",,,"This is a lipoma.
+T1 and T2WI show a lesion that is homogeneously hyperintense.
+T1WI post contrast fat-saturation shows signal loss and non enhancement giving confidence that this is a benign lipoma.",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,149
+TRUE,What is this?,0051.png,https://radiopaedia.org/cases/lissencephaly-type-i,Frank Gaillard,"There are minimal number of gyri, and marked thickening of the cortex, consistent with lissencephaly.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,150
+TRUE,The patient has port-wine stain face lesion and seizures. What is this?,0052a.png,,,"This is Sturge-Weber syndrome.
+There is mild left parieto-occipital atrophy and leptomeningeal enhancement indicating pial angioma within the sulci. The left choroid plexus is also enlarged. ",0052b.png,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,151
+TRUE,"What are these lesions?
+What else should you always look for in the brain?","0053a.png, 0053b.png, 0053c.png, 0053d.png",,,"These are subependymal nodules which are characteristic of tuberous sclerosis complex.
+They often calcify and enhance.
+These subependymal nodules are benign, even though they enhance.
+Always look out for enhancing lesions near the foramen of Monro, because they could be a subependymal giant cell astrocytoma (SEGA) and can cause ventricular obstruction.
+No SEGA is visualized on these images.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,152
+TRUE,What is this?,0054.png,,,This is an example of bilateral closed-lip Schizencephaly. Schizencephaly is bilateral about 50% of the time.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,153
+FALSE,List a few examples of osseous abnormalities that can be associated with Chiari type 1 malformation?,,,,"Atlanto-occipital assimilation (where the C1 vertebra and the occipital condyles are fused).
+Platybasia where the skull base is flattened and the skull base angle is greater than 143 degrees.
+Basilar invagination.
+Sprengel deformity, where the scapula is asymmetrically positioned higher than it should.
+And Klippel-Feil syndrome, where there is abnormal congenital fusion of the cervical vertebra.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,154
+FALSE,"If Chiari type 1 is suspected, what study should be performed next if there is concern for poor CSF flow through the foramen magnum?",,,,"An MR CSF flow dynamic study, can be performed to evaluate bidirectional flow of CSF, anterior and posterior to the foramen magnum.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,155
+TRUE,What is this anatomic structure?,0055.png,,,"The fastigium (latin for ""summit"") forms the roof peak of the 4th ventricle.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,156
+TRUE,What is this?,0056.png,,,"The cerebellum and 4th ventricle are normal.
+There is CSF fluid extending below and posterior to the cerebellum displacing the torcula.
+This is a retrovermian arachnoid cyst, which is a benign anatomic variant of no clinical significance.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,157
+TRUE,What is this?,0057.png,,,"The fourth ventricle is enlarged.
+However, the cerebellum appears fairly normal in size and morphology but is displaced dorsally.
+The tegmentovermian angle is increased, however the fastigial recess angle is not obtuse, and is within normal limits.
+There is CSF fluid inferior to the cerebellum.
+These findings are likely due to a Blake’s pouch cyst, and can also present with hydrocephalus.
+This is not a dandy-walker malformation.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,158
+TRUE,What is this?,0058.png,,,This is Blake’s pouch cyst with hydrocephalus.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,159
+TRUE,What is this?,0059.png,,,"This is a Dandy-Walker malformation.
+The cerebellum is small and hypoplastic, and is abnormally rotated.
+There is hydrocephalus and enlargement of the posterior fossa.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,160
+TRUE,What is this?,"0060a.png, 0060b.png",,,"This is a retro-cerebellar arachnoid cyst.
+This is not a Blake's pouch cyst, or a Dandy-Walker malformation.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,161
+TRUE,What is this?,0061.png,,,"There is an absent septum pellucidum.
+This is a rare anatomic anomaly and is sometimes associated with septo-optic dysplasia.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,162
+FALSE,What are the main features of septo-optic dysplasia (also known as de Morsier syndrome)?,,,,"Congenital abnormality. Features consist of an absent septum pellucidum, Optic nerve tract hypoplasia, and Pituitary gland hypoplasia. Patients will often have hypothalamic-pituitary axis dysfunction and can often have an associated schizencephaly.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,163
+FALSE,What are the four types of holoprosencephaly?,,,,"Holoprosencephaly is classically divided into alobar (which is the most severe type), semilobar, lobar, and middle interhemispheric variant (also called syntelencephaly).
+Alobar holoprosencephaly is characterized by complete failure of hemispheric separation, resulting in a single mono-ventricle, an absent falx, fused thalami, and severe midline facial anomalies, most commonly hypo-telorism.
+Semilobar holoprosencephaly demonstrates partial posterior hemispheric separation with persistent anterior, or frontal fusion, an incompletely formed falx, incomplete ventricular separation, and an absent or severely hypoplastic corpus callosum.
+Lobar holoprosencephaly shows near-complete hemispheric separation with a present but often anteriorly hypoplastic falx, variable callosal abnormalities (commonly partial agenesis), and relatively well-formed lateral ventricles.
+The middle interhemispheric variant is defined by failed separation of the posterior frontal and parietal lobes, with preserved separation of the forebrain and occipital lobes.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,164
+FALSE,What are the most common causes contributing to holoprosencephaly?,,,,"Maternal factors including diabetes, alcohol exposure, and retinoic acid exposure all can can contribute to holoprosencephaly.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,165
+TRUE,What type of holoprosencephaly is this?,0062.png,,,"There is agenesis of the corpus callosum, partial fusion of the thalamus, and the frontal lobes are not completely separated.
+This is consistent with semilobar holoprosencephaly.
+
+
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,166
+TRUE,What type of holoprosencephaly is this?,"0063a.png, 0063b.png",,,Lobar holoprosencephaly.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,167
+TRUE,What type of holoprosencephaly is this?,0064.png,,,Alobar holoprosencephaly.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,168
+TRUE,What is this?,0065.png,,,"Polymicrogyria.
+The most common location for polymicrogyria to occur is depicted here, in the perisylvian region.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,169
+TRUE,What is this?,0066.png,,,Lissencephaly with agyria.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,170
+TRUE,What is the difference between agyria and pachygyria?,0067.png,,,"Agyria contains no gyri, while pachygyria has thick broad gyri.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,171
+TRUE,"There is T2/FLAIR hyperintensity in the right subcortical parietal lobe.
+The patient is having seizures. Glioma can certainly have this appearance.
+However given there is a history of seizures, what congenital abnormality can cause this?",0068.png,,,"This is focal cortical dysplasia.
+Which is a malformation of cortical development caused by abnormal neuronal proliferation, migration, or organization, and is a common cause of drug-resistant focal epilepsy.
+Because these lesions cannot be differentiated between a possible glioma, they should be monitored for many years to ensure stability.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,172
+TRUE,What is this?,0069.png,,,"Thickening and T2 signal hyperintensity of the cerebellum with a characteristic striated appearance.
+This is consistent with a dysplastic cerebellar gangliocytoma (also known as Lhermitte-Duclos disease).
+This is a hamartomatous disease.
+There is an association with COWDEN syndrome, which includes breast hamartomas, thyroid nodules, and uterine leiomyomas.
+",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,173
+FALSE,How are meningoceles and myelomeningoceles differentiated?,,,,The myelomeningocele includes spinal cord and components while a meningocele only contains CSF fluid.,0071.png,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,174
+FALSE,What is it called when there is an epidermal skin layer along the tract of a myelomeningocele?,0072.png,,,"This is called a dorsal dermal sinus.
+These have high infection risk and can cause meningitis, or abscesses.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,175
+TRUE,What is this?,0073.png,,,"Diastematomyelia type 1, which is a type of split cord malformation.
+There is a duplicated dural sac, with a midline rigid osseous or cartilaginous spur.
+These patients are usually symptomatic.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,176
+TRUE,What is this?,0074.png,,,Diastematomyelia type 2. There is a single dural sac.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,177
+TRUE,What are these arrows indicating?,0075.png,,,"This patient has a chiari malformation and subsequent syringomyelia in the lower cervical cord and upper thoracic cord.
+There is also syringobulbia within the brain stem.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,178
+TRUE,What are these benign cystic lesions in the cerebellum?,0076.png,,,Axial T2 MR shows bilateral clusters of tiny hyperintense foci in the dentate nuclei due to enlarged perivascular spaces.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,179
+TRUE,"This is a child less than 3 years old with a posterior fossa mass with components of hemorrhage, heterogeneous enhancement, and diffusion restriction.
+What is this lesion?",0077.png,,,"This could be an atypical teratoid rhabdoid tumor (AT/RT).
+",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,180
+TRUE,What is this lesion?,0078.png,,,This is a benign lipoma in the cerebellar pontine angle.,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,181
+FALSE,Is tuberous sclerosis more common in males or females?,,,,There is equal distribution between men and women in tuberous sclerosis.,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,182
+FALSE,Is subependymal heterotopia more common in males or females?,,,,Subependymal heterotopia is much more common in females due to X-linked subependymal heterotopia being the common cause.,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,183
+TRUE,"This is a 6 year old patient with multiple cafe-au-lait spots.
+What could this be?","0079a.png, 0079b.png, 0079c.png",,,"Neurofibromatosis type 1.
+There is an enlarged right optic nerve, suggestive of an optic glioma.
+There are multiple T2/FLAIR hyperintensities, which are transient and are common in young children and will eventually disappear by their teenage years.
+These foci of abnormal signal intensity ""do not"" represent demyelination.",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,184
+TRUE,"There are bilateral enhancing lesions in the cerebellar pontine angles, which are favored to represent schwannomas.
+What underlying condition does this patient likely have?",0080.png,,,Neurofibromatosis type 2.,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,185
+TRUE,What is this scalp lesion?,0081.png,,,"This is a benign lipoma.
+The lesion is fat density.
+",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,186
+FALSE,"How often should patients with von Hippel-Lindau be screened with MRI for hemangioblastomas?
+ ",,,,"Starting at 10 years old, and follow-up screening with MR every 2 years. ",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,187
+FALSE,What type of renal cell carcinoma is specifically associated with von Hippel-Lindau disease?,,,,Clear cell renal carcinoma,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,188
+TRUE,Is this closed or open lip Schizencephaly?,0082.png,,,"This is closed lip Schizencephaly.
+There is a gray-matter–lined cleft extending towards the ependyma,  but does not communicate with the ventricle.
+This is the defining feature separating it form open-lip Schizencephaly.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,189
+TRUE,"What is the other term for Sturge-Weber syndrome?
+What is the cause behind this abnormality?
+What can happen to the eyes?",,,,"Sturge-Weber syndrome is also called encephalotrigeminal angiomatosis.
+This disease is due to congenital failure of the cortical veins to develop.
+Choroidal angiomas and glaucoma can affect the eyes. ",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,190
+FALSE,What inner ear tumor is associated with Von-Hippel Lindau disease?,,,,Endolymphatic sac tumors,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,191
+TRUE,"What is this ventricular abnormality called?
+What other abnormality is associated with it?",0083.png,https://radiopaedia.org/cases/agenesis-of-the-corpus-callosum,Sajoscha A. Sorrentino,"This is colpocephaly, which describes enlargement of the occipital horns of the lateral ventricles.
+This is often associated with agenesis of the corpus callosum. ",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,192
+FALSE,"What abnormality is a large massa intermedia and ""beaked"" tectum associated with?",,,,Chiari type 2 malformation.,,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,193
+FALSE,"If a new chiari type 1 malformation is discovered should an MR of the cervical spine, or the entire spine be performed next?",,,,"The entire spine should be evaluated, not just the cervical spine.
+Syringomyelia can still occur in the thoracic or lumbar spine, although less commonly compared to the cervical spine.
+Also a tethered cord or spinal dysraphism must be evaluated.",,,,Neuroradiology,Brain,congenital brain malformation,TRUE,TRUE,194
+TRUE,What is this?,"0084a.png, 0084b.png, 0084c.png",,,Subependymal heterotopia,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,195
+FALSE,What can facial angiofibromas which are small reddish bumps on the nose and cheeks be associated with?,,,,Tuberous sclerosis complex,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,196
+TRUE,"This patient has multiple small reddish bumps on the nose and cheeks.
+What could this be?",0085.png,,,Calcified subependymal nodules seen in tuberous sclerosis complex,,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,197
+TRUE,"This a 15 year old patient.
+What are these lesions and what disease are they associated with?","0086a.png, 0086b.png",,,"These are plexiform neurofibromas at multiple spinal levels bilaterally.
+This is from neurofibromatosis type 1.",,,,Neuroradiology,Brain,brain neoplasms,TRUE,TRUE,198
+FALSE,"In tuberous sclerosis, ""where"" are subependymal giant cell astrocytomas most likely to be located?
+",,,,In the region of the foramen of Monroe.,,,,Neuroradiology,Brain,brain neoplasms,,TRUE,199
+FALSE,"What skin lesions are associated with tuberous sclerosis?
+What are some other kidney, heart, and lung associated lesions?
+",,,,"facial angiofibromas and ash-leaf spots are associated with tuberous sclerosis.
+In the kidneys, angiomyolipomas, in the lungs lymphangioleiomyomatosis (LAM), and in the heart, rhabdomyomas.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,200
+TRUE,"This is a 16 year old with a history of seizures.
+What is the likely cause?","0087a.png, 0087b.png",,,"Multiple small, irregular gyri with thickened cortex and indistinct gray-white junction seen in this case are characteristic of pachygyria polymicrogyria.
+This condition also has a predilection for the perisylvian region, as demonstrated in this case.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,201
+TRUE,"This is a 15 year old with a history of seizures.
+What is this?","0088a.png, 0088b.png, 0088c.png",,,"There is a solid and enhancing soft tissue mass just left of the midline adjacent to the septum pellucidum in the region of the left foramen of Monroe.
+There is an additional adjacent subependymal calcification.
+This mass is obstructing the left foramen of Monroe resulting in left lateral ventricle hydrocephalus.
+These findings are suggestive of a subependymal giant cell astrocytoma (SEGA), and must be resected.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,202
+TRUE,What does the orientation or morphology of these lateral ventricles indicate?,0089.png,,,"Agenesis of the corpus callosum.
+
+
+",,,,Neuroradiology,Brain,congenital brain malformation,,TRUE,203
+TRUE,Are these intracranial signal changes associated with neurofibromatosis type 1 or type 2?,0090.png,,,"There are multiple foci of abnormal signal intensities (shortened as FASI), sometimes even in the region of the basal ganglia.
+These signal changes are characteristic in neurofibromatosis type 1 and not seen in neurofibromatosis type 2.
+These FASI lesions peak around 10 years old and then start to regress.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,204
+TRUE,"This patient has a history of neurofibromatosis type 1.
+What is this arrow indicating?",0091.png,,,Dural ectasia which is seen in NF1.,,,,Neuroradiology,Brain,brain neoplasms,,TRUE,205
+FALSE,"What does the term ""acquired"" Chiari type 1 malformation mean?",,,,"Acquired chiari type 1 malformation is a term used to describe how the low lying cerebellar tonsils are secondary to intracranial hypotension, or mass effect from a posterior fossa brain mass. ",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,206
+TRUE,"This patient has a chiari type 2 malformation.
+Describe the findings as indicated by the arrows in the image.",0092.png,,,"Sagittal T1WI of the brain show an abnormal corpus callosum, a beaked tectum, a small posterior fossa with caudal displacement of brainstem, an elongated 4th ventricle with no fastigium, and inferior displacement of the cerebellar tonsils.",,,,Neuroradiology,Brain,congenital brain malformation,,TRUE,207
+TRUE,"This is a 2 year old female with neurofibromatosis type 1.
+What lesion is this?",0093.png,,,This is an optic nerve glioma.,,,,Neuroradiology,Brain,brain neoplasms,,TRUE,208
+FALSE,What are benign intracranial lipomas associated with?,,,,"More than half of intracranial lipomas are associated with other CNS anomalies, with malformations of the corpus callosum being the most common.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,209
+TRUE,What is this?,0094.png,Neuroradiology: The Requisites (4th Edition). Chapter 16. Figure 16-6.,,"The STIR sequences demonstrate multiple foci of fluid signal within the cervical and upper thoracic spinal cord.
+These lesions do not involve the full cross-sectional area of the cord and are peripherally located.
+The lesions involve both the gray and white matter boundaries.
+These findings are typical with multiple sclerosis.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,210
+TRUE,What is this?,0095.png,"Neuroradiology: The Requisites (4th Edition). Chapter 16. Figure 16-8.
+",,"Axial T2WI of the spinal cord shows, hyperintensity in the dorsal columns which are consistent with subacute combined degeneration seen in vitamin B12 and folate deficiencies. Copper deficiency can also cause this appearance.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,211
+FALSE,"What is transverse myelitis?
+What is the goal of MRI in cases of suspected transverse myelitis?",,,,"Transverse myelitis is a clinical syndrome of acute to subacute spinal cord dysfunction causing bilateral neurologic deficits that may involve the motor, sensory, and/or autonomic pathways, often with a definable sensory level.
+The cause maybe idiopathic, or secondary to a demyelinating, autoimmune, granulomatous, paraneoplastic, or post-infectious processes.
+MRI is expected to show cord signal abnormality and is essential to exclude compressive, vascular, or alternative causes, and to support an inflammatory etiology.
+In some cases, an early MRI may appear normal in the first 24 hours.
+In these cases CSF inflammatory markers may support the diagnosis if the initial MR is negative.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,212
+FALSE,What type of neurologic symptoms would not be consistent with transverse myelitis?,,,,"Symptoms that are not consistent with transverse myelitis include: sensory or motor deficits that are purely unilateral and do not involve the contralateral side, stocking–glove type sensory loss, cases of areflexia without upper motor neuron signs, and fluctuating or fatigable weakness (as seen in myasthenia gravis).
+Transverse myelitis also includes a clear timeframe.
+If the symptoms have resolved within 4 hours or have persisted for over 21 days, then these are favored to be from other etiologies.
+Acute transverse myelitis must include neurologic deficits which are bilateral, but do not have to be symmetric, and typically have a defined sensory level.
+Urinary urgency, inability to void, or bowel or bladder incontinence are included as possible symptoms of transverse myelitis.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,213
+FALSE,What type of cancers are most commonly associated with transverse myelitis secondary to a paraneoplastic process?,,,,Breast and small cell lung cancers.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,214
+FALSE,Should transverse myelitis lesions be biopsied?,,,,No! Transverse myelitis lesions do not require biopsy.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,215
+FALSE,MR findings of transverse myelitis are non-specific but contain what general features?,,,,"Spinal cord lesions typically have ill-defined margins and extend longitudinally for 3 to 4 vertebral segments and include more than two thirds of the spinal cord cross-sectional area.
+Enhancement is variable, and is sometimes absent.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,216
+FALSE,"A patient presents to the ED and is having acute to subacute bilateral neurologic deficits localizing to a spinal cord level.
+Before the MRI is performed what is the correct term to describe this patients syndromic condition?
+When is the term acute transverse myelitis used?",,,,"The patient is presenting with acute to subacute bilateral neurologic deficits localizing to a specific spinal cord level.
+Before an MRI is performed, these symptoms are classified as acute myelopathy.
+Once an MRI is performed to exclude compression, tumor, hemorrhage, or a vascular cause and there is intramedullary spinal cord inflammatory signal, then the term ""acute transverse myelitis"" can be used.
+Acute transverse myelitis (ATM) describes a clinical syndrome and is not the final diagnosis.
+If the spinal cord lesions are specific for MS, then the term MS-associated myelitis is used and the term ATM is dropped.
+If the initial MRI raises concern for ATM then a secondary cause is explored (such as neuromyelitis optica, MOGAD, sarcoid, paraneoplastic, autoimmune, or post-infectious) before a final diagnosis of idiopathic ATM is made.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,217
+FALSE,"A patient presents with symptoms of bilateral, asymmetric, neurologic deficits localizing to a spinal cord level. An initial MRI is performed. What features are used to differentiate acute transverse myelitis from multiple sclerosis lesions?",,,,"When trying to distinguish between ATM and the spinal cord lesions of MS, evaluation of the longitudinal and cross-sectional extent of the lesion is crucial. In most cases, the spinal cord lesions of MS are smaller with shorter longitudinal segments involving one or two vertebral segments and are more peripherally located in the cord. While, ATM lesions occupy more than two thirds of the cord cross-sectional area and extend three or more vertebral segments longitudinally.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,218
+FALSE,In MR spine imaging are ATM lesions or tumors typically associated with syrinx formation?,,,,"ATM lesions do not typically form syrinx, while spinal cord tumors can cause a syrinx.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,219
+FALSE,"In MR spine imaging, how can diffuse tensor imaging help in evaluating patients with suspected acute transverse myelitis?",,,,"T2 hyperintense spinal cord lesions have corresponding decreased fractional
+anisotropy in ATM lesions and can have areas of decreased fractional anisotropy without and associated T2 hyperintensity and appear otherwise normal. Indicating there may be areas of the spinal cord can only be detected with diffuse tensor imaging.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,220
+FALSE,What part of the spinal cord is most commonly affected in acute transverse myelitis?,,,,The thoracic cord is the most commonly affected region in ATM.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,221
+FALSE,In spine imaging. How often is spinal cord expansion and focal peripheral cord enhancement seen in acute transverse myelitis?,,,,"Spinal cord expansion and focal, peripheral cord enhancement is seen in about 50% of cases of acute transverse myelitis. These findings are less common than the T2 hyperintensity involving two thirds of the spinal cord cross-sectional area (90%) and extension over a length of three to four or more vertebral segments (60%).",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,222
+FALSE,"In spine imaging, what is longitudinally extensive transverse myelitis (LETM)?",,,,"Longitudinally extensive transverse myelitis (LETM), is a term used in MR spine imaging where there is abnormal T2 signal traversing at least three vertebral body segments in length, this is description is non-specific but essentially excludes MS-associated myelitis.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,223
+FALSE,What is the other name for Devic’s syndrome?,,,,"Neuromyelitis Optica Spectrum Disorder, which is a severe demyelinating disease that primarily involves the optic nerves and spinal cord.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,224
+FALSE,In cases of Neuromyelitis Optica Spectrum Disorder what is the typical gender and age of onset?,,,,"Neuromyelitis Optica Spectrum Disorder more commonly affects women, and has a peak incidence around 35 - 40 years of age.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,225
+FALSE,What CSF auto-antibody is used to diagnose Neuromyelitis Optica Spectrum Disorder?,,,,The AQP4 anti-body. Auto-antibody to the aquaporin-4.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,226
+TRUE,Is this spinal lesions more compatible with MS-associated myelitis or acute transverse myelitis?,"0096a.png, 0096b.png
+","Imaging of the Spine: Expert Consult, Chapter 21, Figure 21-2. ",,"This spinal lesions demonstrates abnormal signal intensity and enhancement spanning 3 vertebral segments and the full cross-sectional area of the spinal cord. These findings are compatible with ATM and are not consistent with MS-associated myelitis which are much shorter, smaller, and often multiple.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,227
+FALSE,If a patient has an MR of the spine and shows abnormal signal changes spanning 1 - 2 vertebral segments. Before considering MS-associated myelitis what clinical history must be considered?,,,,In cases of resolving longitudinally extensive transverse myelitis the lesions will shrink. The clinical history and onset of symptoms to when the MR is performed is crucial in distinguishing an acute transverse myelitis that is resolving from an MS-associated myelitis.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,228
+FALSE,"In cases where there are optic nerve and spinal cord T2 hyperintensity lesions, does the presence or absence of subcortical white matter
+lesions in the brain change the diagnosis of neuromyelitis optica and multiple sclerosis. ",,,,"Although optic nerve, spinal cord and brain white matter lesions are more common in multiple sclerosis their presences in the brain does not eliminate the possibility of neuromyelitis optica. However, if there are only optic nerve and spinal cord lesions, and no brain lesions, the likelihood of neuromyelitis optica is very high compared to multiple sclerosis.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,229
+TRUE,50 year old male with lower extremity weakness. What is this?,0097.png,"Imaging of the Spine: Expert Consult, Chapter 21",,"There is diffuse enhancement of the lumbar nerve roots preferentially involving the ventral roots, which is consistent with Guillain-Barré syndrome.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,230
+TRUE,Based on this single MR sagittal STIR of a 25 year old female what is the most likely demyelinating disease?,0098.png,"Diagnostic Imaging: Spine (4th Edition), page 637.",,"There are STIR signal within the cord spanning from C6 and C7 and in the upper thoracic
+cord. These findings are suggestive of MS, given the short segment of involvement and multiplicity of lesions.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,231
+TRUE,"This patient has a history of cancer and prior radiation therapy presents with bilateral upextremity weakness and sensory loss along a C5 - C7 distribution. Based on the single sagittal T2-fat suppressed, what is the likely cause of their myelitis?",0099.png,"Diagnostic Imaging: Spine (4th Edition), page 637.",,The is MR demonstrates multiple bone metastases and prior radiation changes. There is diffuse increased signal changes in the spinal cord. The primary considerations would be radiation myelopathy or  paraneoplastic myelopathy.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,232
+FALSE,What part of the spinal cord is most commonly affected in MS-associated myelitis?,,,,The cervical spinal cord and the dorsolateral aspects. The lesions are less than 2 vertebral segments longitudinally and less than half of the axial cross section of the cord.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,233
+FALSE,"In patients with active MS myelitis, how long can abnormal spinal cord lesion enhancement last?",,,,"In MS-associated myelitis, lesional enhancement can last approximately 1 - 2 months, however this has no indication on disease progression. ",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,234
+TRUE,This patient has bilateral asymmetric upper extremity weakness. MR shows incomplete ring enhancement at C6-C7. What is the likely process causing this patient's myelopathy?,0100.png,,,Open or incomplete ring enhancement is more often associated with a demyelinating process compared to complete ring enhancement which is more commonly seen in infection or tumors. This was a short small lesion and the patient was diagnosed with multiple sclerosis.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,235
+TRUE,What demyelinating process is most compatible with this MR findings?,0101.png,,,"There are multiple short-segment foci with T2
+hyperintensity and enhancement. These findings are consistent with multiple sclerosis.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,236
+TRUE,Patients with neuromyelitis optica spectrum disorder can sometimes develop T2 hyperintense brain lesions. Where are these brain lesions commonly located?,0102.png,"Diagnostic Imaging: Spine (4th Edition), page 649.
+",,"The typical distribution of brain lesions in neuromyelitis optica include the periependymal regions surrounding the 3rd and 4th ventricles, cerebral aqueduct, and medulla.",0103.png,"Diagnostic Imaging: Spine (4th Edition), page 649.",,Neuroradiology,Spine,spine inflammatory,,TRUE,237
+FALSE,What is the relationship between acute disseminated encephalomyelitis (ADEM) and Myelin Oligodendrocyte Glycoprotein Autoantibody Myelitis (MOGAD).,,,,"This patient has a history of cancer and prior radiation therapy presents with bilateral uppper extremity weakness and sensory loss along a C5 - C7 distribution. Based on the single sagital T2-fat suppressed, what is the likely cause of their myelitis?",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,238
+FALSE,Is adult or child acute disseminated encephalomyelitis (ADEM) more likely to be MOG-IG positive?,,,,"Children are more likely to have ADEM with MOG-IG antibodies (up to 50%), compared to adults (around 10 - 20%).",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,239
+FALSE,What is most likely presentation of MOGAD in adults?,,,,Optic neuritis alone. Sometimes myelitis is also present. ADEM is rare in adults.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,240
+FALSE,Is optic neuritis in MOGAD typically bilateral or unilateral?,,,,"The optic neuritis in MOGAD is typically bilateral, compared to MS which is typically unilateral.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,241
+TRUE,What type of spinal cord demyelinating process is this most likely given the limited images?,0104.png,"Diagnostic Imaging: Spine (4th Edition), page 650.",,"Sagittal STIR MR of cervical spine shows extensive longitudinal transverse myelitis from C4-C7. There are additional signal abnormality at C2 in the pons. Axial T2 of the cervical cord shows abnormal hyperintensity in the central gray matter bilaterally which can give an ""H"" appearance which has an association with Myelin Oligodendrocyte Glycoprotein Autoantibody Myelitis.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,242
+FALSE,What requirements must be met before a diagnosis of ADEM myelitis can be considered?,,,,"There must be encephalopathy with MR brain findings consistent with ADEM, and MR spine findings consistent with a transverse myelitis, there cannot be any relapsing disease, or antibodies to suggest NMOSD or MOGAD.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,243
+FALSE,"What is the clinical difference between Guillain–Barré syndrome and chronic
+inflammatory demyelinating polyneuropathy (CIDP)? What are the MR imaging differences?",,,,Guillain–Barré syndrome typically resolves or improves within 4 weeks. If the symptoms persist for longer than 8 weeks or there are multiple recurrences then the disease is CIDP. On MR GBS will demonstrate enhancement of the spinal nerve roots with no abnormal thickening. Compared to CIDP which demonstrates enhancement and nerve root thickening. There is no abnormal spinal cord signal in either of these entities.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,244
+FALSE,This patient had progressive bilateral lower extremity weakness that has persisted for over 8 weeks. What does this MR indicate?,0105.png,"Diagnostic Imaging: Spine (4th Edition), page 660.",,"Sagittal T2WI MR reveals enlargement and abnormal T2 hyperintensity of
+the exiting lumbosacral nerves. Diffuse nerve root hypertrophy and enhancement is the typical features of chronic inflammatory demyelinating polyneuropathy (CIDP).",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,245
+FALSE,What is chronic recurrent multifocal osteomyelitis (CRMO)?,,,,"Chronic recurrent multifocal osteomyelitis (CRMO) is an autoinflammatory disorder of bone with multifocal painful non-pyogenic bone lesions typically seen in children or adolescents. MRI typically shows multifocal bone marrow edema, often involving the metaphysis of long bones, clavicles, spine, pelvis, frequently bilateral or symmetric. ",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,246
+FALSE,What is Grisel syndrome? What imaging modality and procedures is best to diagnose this condition?,,,,"Grisel syndrome is a rare cause of torticollis that involves subluxation of atlanto-axial joint due to inflammation of atlanto-axial ligaments from an infectious process in the head and neck, usually a retropharyngeal abscess. This is typically seen in children less than 18 years old. CT with the initial scan in a neutral position followed by maximum contralateral head turn looking for abnormal lateral placement of C1 on C2. MR can also be helpful in evaluating the extent of infection but the CT is best for evaluating the degree of subluxation.",0106.png,https://radiopaedia.org/cases/grisel-syndrome,Aparna Srinivasa Babu,Neuroradiology,Spine,spine inflammatory,,TRUE,247
+FALSE,What gender and age group is more likely to develop IgG4 related disease?,,,,"IgG-4 related disease more commonly affects men more than women, and has a peak onset in patients in their 60s.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,248
+FALSE,If a child with bilateral diffuse white matter changes involving the brain is diagnosed with presumed ADEM has recurrent symptoms 2 months later? is this considered a relapse? does this raise concern for MS?,0107.png,https://radiopaedia.org/cases/acute-disseminated-encephalomyelitis,Bita Abbasi,"In cases of ADEM if symptoms return within 3 months, then it is considered to be part of the the same event and not a true relapse. However, this is still an uncommon event and may indicate an eventual evaluation of possible MOGAD or MS.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,249
+FALSE,What MS drug has the highest risk of JC virus related progressive multifocal leukoencephalopathy (PML)?,,,,Natalizumab,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,250
+FALSE,What intracranial vessel supplies the lateral and posterior medulla?,,,,PICA - Posterior inferior cerebellar artery.,,,,Neuroradiology,Brain,stroke,,TRUE,251
+FALSE,What intracranial vessel supplies the lateral and posterior pons?,,,,SCA -  Superior cerebellar artery.,,,,Neuroradiology,Brain,stroke,,TRUE,252
+FALSE,What clinical syndrome is associated lateral medullary infarcts often supplied by a branch of the posterior inferior cerebellar artery.,,,,"Lateral medullary syndrome, also called Wallenberg syndrome, which is characterized by loss of pain and temperature sensation of the ipsilateral face (from the descending trigeminothalamic tract) and contralateral body (from the lateral spinothalamic tract).",,,,Neuroradiology,Brain,stroke,,TRUE,253
+FALSE,What region of the brain is involved in Wallenberg syndrome?,,,,The lateral medulla which is supplied by the posterior inferior cerebellar artery.,,,,Neuroradiology,Brain,stroke,,TRUE,254
+FALSE,"If a patient has stroke symptoms characterized by loss of pain and temperature sensation of the face and contralateral body, where should you look for an infarct?",,,,"These neurologic deficits are consistent with Wallenberg syndrome, also called lateral medullary syndrome, and involve the lateral medulla which is supplied by the posterior inferior cerebellar artery.",,,,Neuroradiology,Brain,stroke,,TRUE,255
+TRUE,What vessel is likely the cause of this infarct?,0108.png,,,"The left posterior inferior cerebellar artery which supplies the lateral medulla. An infarct in the lateral medulla causes symptoms of loss of pain and temperature sensation of the ipsilateral face and contralateral body, ataxia, vertigo, and nystagmus, characterized as Wallenberg syndrome, also called lateral medullary syndrome.",,,,Neuroradiology,Brain,stroke,,TRUE,256
+FALSE,What nerve exits from the stylomastoid foramen?,0109.png,,,The facial nerve.,,,,Neuroradiology,Brain,stroke,,TRUE,257
+TRUE,What's the abnormality?,0110.png,,,"Dissection of the proximal internal carotid artery.
+",,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,258
+TRUE,What the abnormality?,0111.png,,,Fibromuscular dysplasia,,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,259
+FALSE,What is the most common location for an intracranial arterial dissection?,,,,"The supraclinoid internal carotid artery is the most common location for intracranial
+dissection.",,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,260
+FALSE,Do collimators reduce low energy photos?,,,,"No, collimators reduce scatter radiation which can inevitably increase exposure time by decreasing incident photons on the detector. Filters can reduce low energy photons.",,,,Physics,Radiography physics,radiography physics,,TRUE,261
+FALSE,"In fibromuscular dysplasia, what part of the vessel is most commonly involved?",,,,In about 90% of cases of fibromuscular dysplasia the media of the arterial wall is involved.,,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,262
+FALSE,In cases of fibromuscular dysplasia what section of the carotid artery is most commonly involved?,,,,"The internal carotid artery cervical segment is most commonly affected in fibromuscular dysplasia. Interestingly, the proximal 2 cm from the carotid bulb is usually spared because of architectural differences in this part of the vessel's wall. ",,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,263
+TRUE,What is this?,0112.png,,,"Spinal epidural lipomatosis with a characteristic ""Y"" sign.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,264
+FALSE,Are males or females more likely to have spinal epidural lipomatosis?,,,,Spinal epidural lipomatosis has a male predominance.,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,265
+FALSE,What systemic disease and what medications can be associated with spinal epidural lipomatosis?,,,,"Steroid use
+Cushing syndrome
+Hypothyroidism
+Obesity",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,266
+FALSE,How is spinal epidural lipomatosis treated in patients with neurologic symptoms?,,,,Surgical decompression.,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,267
+FALSE,Is widening of the diploid space more common in Paget disease or cranial fibrous dysplasia?,0113.png,https://radiopaedia.org/cases/paget-disease-of-the-skull-1,Frank Gaillard,"This is widening of the diploic space, which refers to expansion of the cancellous (spongy) bone between the inner and outer tables of the skull. Widening of the diploic space is associated with Paget disease, fibrous dysplasia, and other metabolic and hemolytic abnormalities. Diploic space widening is most pronounced in Paget disease.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,268
+FALSE,Differentiating features between Paget disease and cranial fibrous dysplasia?,,,,"Cranial fibrous dysplasia typically affects younger patients while, paget disease is in older patients. Fibrous dysplasia can involve the facial bones, including the sinuses while Paget disease typically spares the facial bones. Fibrous dysplasia predominantly affects the outer table compared to the Paget disease which involves both the outer and inner tables. In paget's disease the bone has a mixed lytic–sclerotic appearance while fibrous dysplasia appears more ground glass. Alkaline phosphatase is elevated in Paget's disease.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,269
+FALSE,What is the diploid layer of the bone?,,,,The diploic layer is the layer of bone between the inner and outer table.,0114.png,,,Neuroradiology,Brain,brain neoplasms,,TRUE,270
+FALSE,"What types of metastatic disease can appear similar to Paget disease in the skull with the typical cotton wool, mixed sclerotic and lytic lesions?",,,,Metastatic prostate and breast cancers can appear similar to Paget disease in the skull.,,,,Neuroradiology,Brain,brain neoplasms,,TRUE,271
+FALSE,A patient with paget disease can develop what issue with the kidney?,,,,Kidney stones,,,,Neuroradiology,Brain,brain neoplasms,,TRUE,272
+FALSE,What pathogen is often the cause behind infectious osteomyelitis discitis?,,,,Staph aureus.,,,,Neuroradiology,Spine,spine general,,TRUE,273
+FALSE,Is the incidence of a paraspinal abscess more or less likely in tuberculous spondylodiscitis or typical pyogenic spondylodiscitis.,,,,The incidence of a paraspinal abscess is high with tuberculosis compared to typical pyogenic infections.,,,,Neuroradiology,Spine,spine general,,TRUE,274
+FALSE,Two most common locations of gangliogliomas in the brain?,,,,"Gangliogliomas are typically located in the temporal lobes (85% of the time), and frontal lobe approximately 10% of the time. 
+",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,275
+FALSE,What part of the mandible is at highest risk of avascular necrosis following a fracture?,0115.png,,,"Fractures of the mandibular condyle, and specifically the mandibular neck are at highest risk of avascular necrosis.",,,,Neuroradiology,Trauma,trauma,,TRUE,276
+FALSE,What part of the mandible most commonly fractures?,0115.png,,,"The body is most common location of a mandibular fracture, followed by the angle of the mandible and then the mandibular condyle.",,,,Neuroradiology,Trauma,trauma,,TRUE,277
+FALSE,"Besides fractures, what other things can cause avascular necrosis of the mandible?
+",,,,"Bisphosphonates and corticosteroids use, and sickle cell disease, can cause avascular necrosis of the mandible?
+",,,,Neuroradiology,Trauma,trauma,,TRUE,278
+FALSE,What is the concern of a mandibular fracture involving the alveolar process and teeth?,,,,A mandibular fracture involving the alveolar process and teeth is considered an open fracture due to communication with the oral cavity.,,,,Neuroradiology,Trauma,trauma,,TRUE,279
+FALSE,How does radiation intensity change with distance from the source?,,,,"Radiation intensity decreases with the square of the distance from the source. This describes the inverse square law if the distance from the radiation source is doubled, the radiation intensity falls to one-quarter of the original intensity.",,,,Physics,Radiography physics,radiography physics,,TRUE,280
+FALSE,Most common location of an intracranial aneurysm?,,,,The anterior communicating arteries,,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,281
+FALSE,Most common location of an intracranial posterior circulation aneurysm?,,,,Basilar artery tip aneurysm.,,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,282
+FALSE,Cranial nerve anatomy. What separates the internal auditory canal into superior and inferior components?,,,,The crista falciformis (also called the horizontal crest).,0116.png,,,Neuroradiology,Head & Neck,cranial nerves,,TRUE,283
+FALSE,"Is spinal cord necrosis more commonly associated with neuromyelitis optica or multiple sclerosis. 
+",,,,Spinal cord necrosis is more likely to be seen in neuromyelitis optica than MS.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,284
+FALSE,"What are the three major criteria for diagnosing neuromyelitis optica? What are the minor criteria?
+",,,,"Optic neuritis, transverse myelitis with spinal cord lesion extending over three spinal segments, and absence of another known neurologic disease. All three of these must be present. Only one of the minor criteria must be met.  Positive CSF Aquaporin-4 Antibody, Linear periventricular white matter signal abnormalities, non-specific T2 signal in brainstem or hypothalamus, or a totally normal brain MRI.
+",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,285
+FALSE,Is neuromyelitis optica known to relapse? What about ADEM?,,,,"Neuromyelitis often relapses and requires long-term immunosuppression. ADEM is monophasic and doesn't typically relapse. In-fact, if a presumed episode of ADEM does relapse, an alternative diagnosis is often investigated.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,286
+FALSE,"What is the best imaging study to find the location of an active CSF leak within the cranium?
+",,,,"CT cisternography is performed by first obtaining a lumbar puncture, followed by intrathecal injection of a small volume of nonionic iodinated contrast. After allowing time and appropriate patient positioning for the contrast to circulate within the CSF, a thin-section CT of the skull base is obtained. The study is timed to identify extravasation of contrast outside the subarachnoid space, thereby localizing an active CSF leak.",,,,Neuroradiology,Trauma,trauma,,TRUE,287
+FALSE,What is the best imaging study to evaluate for a spinal CSF leak?,,,,CT myelogram,,,,Neuroradiology,Trauma,trauma,,TRUE,288
+FALSE,How are spinal CSF leaks often repaired?,,,,Epidural blood patch,,,,Neuroradiology,Trauma,trauma,,TRUE,289
+FALSE,What lab test can look for CSF fluid from nasal or ear drainage fluid to determine if is truly CSF?,,,,Beta-2 Transferrin,,,,Neuroradiology,Trauma,trauma,,TRUE,290
+FALSE,Does optic neuritis typically cause papilledema?,,,,"No, optic neuritis can cause inflammation of optic disc and can resemble papilledema on fundoscopic exam, however MR does not typically show flattening of the optic disc in optic neuritis.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,291
+FALSE,What is the abnormality?,0117.png,,,"Papilledema, as indicated by flattening of the optic disc and bulging of the papilla into the globe. ",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,292
+TRUE,Patient has sensory loss and weakness. What could this be?,"0118a.png, 0118b.png, 0118c.png",https://radiopaedia.org/cases/hypertrophic-neuropathy,Magdi Mahsoub,"There is bilateral thickening of the lumbosacral spinal nerve roots. These findings can be seen in chronic inflammatory demyelinating polyneuropathy (CIDP), Charcot-Marie-Tooth disease type 3 (also called Dejerine-Sottas disease. Clinical history is helpful as Charcot-Marie-Tooth disease presents in infancy, while CIDP occurs in adults and can relapse. CIDP will often have mild enhancement of the nerve roots, while Charcot-Marie-Tooth disease does enhance.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,293
+TRUE,Pre and post contrast of the lumbar spine. Immunocompromised patient with severe radicular pain. what could be included in the differential diagnosis?,0119.png,,,"There is non-enlarged, left, greater than right spinal root enhancement of the cauda equina. Due to this patients immunocompromised status, CMV and Varicella zoster virus radiculitis are the most likely possibilities. If there is associated burning or vesicular rash in the region of pain this is more compatible with varicella zoster. Where rapid weakness is more associated with CMV radiculitis.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,294
+FALSE,General differential diagnosis list of nerve root enlargement with enhancement.,,,,"4 main categories included in this differential inflammatory and autoimmune, neoplastic, infectious, and hereditary.
+Inflammatory and autoimmune causes include Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) - which is a common cause and represent a more chronic form of guillain barre syndrome last longer than 8 weeks, and enhancement can be variable and sometime absent in later stages. Neurosarcoid can cause enlargement and often nodular enhancement of the spinal nerve roots.  Leptomeningeal carcinomatosis, and lymphoma can also present with smooth or nodular enhancement of the spinal nerve roots. A nerve sheath tumors (including either schwannomas or neurofibromas) can have focal enlargement with avid enhancement. Infectious causes can be included, especially in immunocompromised patients and include tuberculosis, fungal like cryptococcus, CMV, and VZV. Charcot-Marie-Tooth disease would not be included in this differential list because although the spinal nerve roots are enlarged there is no enhancement with this disease.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,295
+TRUE,This patients has been having progressive low extremity weakness for the past week. What is the most likely diagnosis?,0120.png,,,Ventral and dorsal nerve root enhancement without significant enlargement. With this patient's history of progressive lower extremity weakness a diagnosis of Guillain-Barre syndrome is most likely.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,296
+FALSE,What is the most common and modern term for hereditary sensory motor neuropathy disease? What are the key findings on MRI?,,,,Charcot-Marie-Tooth disease is effectively synonymous hereditary sensory motor neuropathy disease. On MRI there is diffuse spinal nerve enlargement without enhancement.,"0118a.png, 0118b.png, 0118c.png",https://radiopaedia.org/cases/hypertrophic-neuropathy,Magdi Mahsoub,Neuroradiology,Spine,spine inflammatory,,TRUE,297
+FALSE,What are some of the variable appearance of Guillain-Barré syndrome on MRI? Can Guillain-Barré syndrome be excluded with MRI?,,,,"In Guillain–Barré syndrome, spinal nerve root enlargement is typically absent or minimal. Nerve root enhancement may be present; however, in very early disease (within the first 2–3 days), increased permeability of the blood–nerve barrier may not yet be established, resulting in little or no enhancement. Additionally, axonal variants of Guillain–Barré syndrome may lack nerve root enhancement altogether. When present, enhancement often involved the ventral and dorsal nerve roots. However isolated ventral nerve root involvement occurs in about 10 to 20% of cases. Importantly, a normal MRI of the spine does not exclude the diagnosis of Guillain–Barré syndrome.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,298
+TRUE,This patient has symptoms of rapid myelopathy. What is the differential if there is a history of being immunocompromised or a history of malignancy?,0121a.png,,,"There is irregular enhancement of the distal spinal cord and enhancement of the cauda equina. In a patient with a history with rapid myelopathy and history of being immunocompromised, viral myelitis, and includes CMV as a possible pathogen. In a patient with a history of malignancy, leptomeningeal carcinomatosis should be considered.",0121b.png,,,Neuroradiology,Spine,spine inflammatory,,TRUE,299
+FALSE,"Why is it difficult to differentiate toxoplasmosis from primary CNS lymphoma in AIDS immunocompromised patients on imaging? What imaging features can help differentiate between the two?
+",,,,"Both conditions can present with multiple lesions and show solid or ring enhancement on imaging, However, ring enhancement is more common in toxoplasmosis compared to lymphoma.
+In toxoplasmosis the basal ganglia and the corticomedullary junction are commonly involved. Where as in primary lymphoma lesions are more periventricular. Additionally, lymphoma can appear more hyperdense on non-contrast CT. ",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,300
+FALSE,In immunocompromised AIDS patients which lesions have a higher incidence?,,,,"Toxoplasmosis is the most common focal brain lesions in immunocompromised AIDS patients with an incidence up to 30 to 40%. Whereas, primary CNS lymphoma incidence is around 10%.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,301
+FALSE,What nuclear medicine scan can help differentiate between toxoplasmosis and primary CNS lymphoma?,,,,"Thallium-201 will have increased uptake in primary lymphoma, whereas toxoplasmosis does not.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,302
+FALSE,How can diffusion weighted imaging help differentiate between primary CNS lymphoma and toxoplasmosis?,,,,Lymphoma will restrict diffusion while toxoplasmosis does not restrict diffusion. ADC values greater than 1.6 can be very specific in identifying toxoplasmosis.,,,,Neuroradiology,Brain,brain neoplasms,,TRUE,303
+FALSE,Will toxoplasmosis or primary CNS lymphoma demonstrate elevated CBV on MR perfusion imaging?,,,,Primary CNS lymphoma typically demonstrates elevated CBV while toxoplasmosis shows relative decreased CBV.,,,,Neuroradiology,Brain,brain neoplasms,,TRUE,304
+TRUE,What vascular anomaly is this?,0124.png,https://radiopaedia.org/cases/persistent-trigeminal-artery-11,Maxime St-Amant,There is direct communication between the basilar artery and left internal carotid artery consistent with a congenital left trigeminal artery.,,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,305
+FALSE,What other associated vascular conditions are associated with a persistent congenital trigeminal artery?,0124.png,https://radiopaedia.org/cases/persistent-trigeminal-artery-11,Maxime St-Amant,Persistent congenital trigeminal artery anomalies are associated with increased incidence of aneurysms and arteriovenous malformations.,,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,306
+FALSE,Why is relevant to know and report on a persistent trigeminal artery?,0124.png,https://radiopaedia.org/cases/persistent-trigeminal-artery-11,Maxime St-Amant,The trigeminal artery courses through the sella turcica and is crucial to identify in pre-operative planning for a trans-spehnoidal surgery.,,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,307
+TRUE,What is this spinal lesion?  Where is located?,"0125a.png, 0125b.png, 0125c.png, 0125d.png",https://radiopaedia.org/cases/spinal-schwannoma-thoracic-3,Frank Gaillard,"There is an extramedullary, intradural enhancing lesion, that is T1 hypointense T2 hyperintense. Consistent with a nerve sheath tumor. Spinal schwannomas and neurofibromas are indistinguishable, however schwannomas are more common between the two. Nerve sheath tumors are more commonly found in the thoracolumbar spine, as in this case, compared to the cervical spine.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,308
+TRUE,What is this?,"0126a.png, 0126b.png, 0126c.png, 0126d.png",https://radiopaedia.org/cases/epidermoid-cyst-cerebellopontine-angle-14,Frank Gaillard,"There is non-enhancing, T2 bright, lesion in the right cerebellopontine angle with diffusion restriction, consistent with an epidermoid cyst.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,309
+FALSE,Top three locations of to find intracranial epidermoid cysts?,,,,"Intracranial epidermoid cysts are most commonly found at the cerebellopontine angle (up to 50% of the time), suprasellar cistern, and fourth ventricle.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,310
+TRUE,What is this?,"0127a.png, 0127b.png, 0127c.png, 0127d.png
+",https://radiopaedia.org/cases/epidermoid-cyst-4th-ventricle-1,Frank Gaillard,"There is a large lobulated non-enhancing mass within an expanded fourth ventricle with T2 hyperintensity, mild intensity on FLAIR (not shown), and diffusion restriction. There findings are characteristic of an epidermoid cyst.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,311
+FALSE,What is the origin of epidermoid cyst and what the typical management?,,,,"Epidermoid cyst are congenital lesions made of squamous epithelium which contains desquamated keratin debris contributing to its diffusion restriction characteristics.
+These lesions are typically managed conservatively unless the patient is symptomatic in which case surgical excision is performed.
+However surgical excision is difficult, and recurrence can occur.",,,,Neuroradiology,Brain,brain neoplasms,,TRUE,312
+FALSE,Are epidermoid cyst typically intradural or extradural lesions?,,,,Epidermoid cysts are almost always intradural.,,,,Neuroradiology,Brain,brain neoplasms,,TRUE,313
+FALSE,"Regarding MR K-space how can truncation artifact, also known as Gibbs artifact occur? What are the primary and secondary methods that this artifact can be mitigated? ",,,,"Truncation artifact occurs when k-space is incompletely sampled, particularly the peripheral high-spatial-frequency data due to a limited matrix size or reduced phase-encoding steps, resulting in oscillations near sharp tissue interfaces.
+The primary method to mitigate this artifact is acquiring more k-space data, most effectively by increasing the matrix size, especially in the phase-encoding direction, or when partial Fourier is used, by increasing the fraction of phase-encoding k-space that is acquired.
+Secondary methods act on already acquired data and include apodization and zero-filling interpolation.
+Adopization users a filter or kernel, which reduces ringing artifact by smoothing edge transitions at the expense of mild spatial resolution loss.
+Zero-filling interpolation smooths the image appearance without increasing true resolution. These secondary methods are less effective at mitigating the truncation artifact compared to increasing phase-encoding data acquisition.",,,,Physics,MR physics,MR physics,,TRUE,314
+FALSE,What is apodization?,,,,"
+
+Apodization reduces truncation artifact by applying a k-space filter kernel that tapers peripheral high-frequency data, decreasing ringing at the cost of spatial resolution.",,,,Physics,MR physics,MR physics,,TRUE,315
+TRUE,What are the three arrows indicating on this MR spine?,0128.png,,,"The black arrow indicates a posterior epidural abscess with surrounding rim enhancement and mass effect on the cauda equina.
+The thick white arrow indicates spondylodiscitis.
+The thin white arrow shows spinal meningitis with distal nerve root enhancement.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,316
+TRUE,"This patient has glioblastoma.
+What is going on with the spine?",0129.png,,,This is post-contrast MR of the spine shows multiple irregular clumps of enhancement along the cauda equina which is concerning for glioblastoma drop metastases.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,317
+TRUE,What else could be on the differential besides neoplasm?,0130.png,,,"Post contrast MR of the cervical and lumbar spine show extensive linear and nodular leptomeningeal enhancement along the dura, cord surface, and cauda equina. Besides metastatic disease, sarcoidosis should be considered as a possible cause.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,318
+TRUE,This patient has a disc protrusion at the level of L4-L5. Why is there focal enhancement on this post-contrast axial MR?,0131.png,,,There is a single focus of left spinal root enhancement consistent with radiculitis in this patients with a disc protrusion. An engorged radicular vein can also have a similar appearance.,,,,Neuroradiology,Spine,spine inflammatory,,TRUE,319
+TRUE,What type of cortical brain malformation does this MR FLAIR sequence likely demonstrate?,0132.png,,,"There is mild thickening of the cortex, with subtle T2/FLAIR hyperintensity, which can be seen in focal cortical dysplasia.",,,,Neuroradiology,Brain,congenital brain malformation,,TRUE,320
+FALSE,What congenital virus is associated with polymicrogyria?,,,,CMV,,,,Neuroradiology,Brain,congenital brain malformation,,TRUE,321
+TRUE,What is this small lesion in the pons? How should this be worked up?,"0133a.png, 0133b.png, 0133c.png, 0133d.png",,,Small focus of enhancement in the pons with corresponding signal loss on SWI and no abnormal T2 or FLAIR signal abnormality. These findings are consistent with a benign capillary telangiectasia. No follow-up imaging is required.,,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,322
+FALSE,Where are capillary telangiectasias most likely to occur?,,,,"Capillary telangiectasias are most commonly found in the pons, cerebellum, and spinal cord.",,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,323
+TRUE,Why is there so much T2 hyperintensity surrounding this flow void of an AVM?,0134.png,,,The surrounding T2 hyperintense signal in this case is likely due to gliosis from past hemorrhage and-or vascular steal phenomenon.,,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,324
+FALSE,What is the most important and consistent predictor of future hemorrhage in an intracranial AVM?,,,,"Previous hemorrhage is the most consistent predictor of future hemorrhage. Other factors that increase risk of hemorrhage include intra-nidal aneurysms, venous stenosis, deep venous drainage, single venous drainage, and if the AVM is located in the deep brain or posterior fossa.",,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,325
+TRUE,What is this?,"0135a.png, 0135b.png, 0135c.png, 0135d.png",,,"There is prominent susceptibility, heterogeneous T1 signal with minimal to no enhancement and a complete hypointense rim on T2 consistent with a cavernous malformations.",,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,326
+FALSE,What vascular lesions can develop years after having brain radiation treatments?,,,,Cavernous malformations and capillary telangiectasias.,,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,327
+TRUE,This patient has a prior history of brain radiation treatment. What are these lesions most likely on this GRE sequence?,0136.png,,,Most likely cavernous malformations and capillary telangiectasias.,,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,328
+FALSE,A patient has a known cavernous malformation. What would the lesion appear as on DSA?,,,,"Normal.
+Cavernous malformations are angiographically occult and are typically not visualized on DSA or CTA.",,,,Neuroradiology,Brain,vascular abnormalities,,TRUE,329
+FALSE,"What are the top four most common intramedullary spinal cord neoplastic lesions?
+What are other non-neoplastic spinal cord lesions to consider? ",,,,"Ependymomas, astrocytomas, hemangioblastomas, and metastatic lesions.
+Ependymomas are most common in adults.
+Astrocytomas are more common in children, and are predominantly seen in the cervical spine.
+Hemangioblastomas are more common in the thoracic, and cervical spine.
+Other possible intramedullary non-neoplastic spinal cord lesions include a spinal cord edema due to compressive myelopathy, a congenital syringomyelia, multiple sclerosis, and acute transverse myelitis.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,330
+FALSE,What is a less common intramedullary spinal cord neoplasm?,,,,"Spinal ganglioglioma are less common intramedullary spinal cord neoplasm.
+Gangliogliomas ar more often seen in children than adults, and are typically seen in the cervical spine.
+A definitive diagnosis pre-biopsy based on imaging features along is not possible. ",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,331
+TRUE,What is this?,"0137a.png, 0137b.png, 0137c.png, 0137d.png",https://radiopaedia.org/cases/haemangioblastoma-cervical-cord-2,Frank Gaillard,"There is an intramedullary enhancing nodule within the spinal cord at the level of C5 with adjacent cysts and extensive cord edema. Posterior to the lesion a number of flow voids are noted, as indicated by the red arrow on the T2 sequence. These findings are most consistent with a hemangioblastoma.",0138.png,https://radiopaedia.org/cases/haemangioblastoma-cervical-cord-2,Frank Gaillard,Neuroradiology,Spine,spinal neoplasms,,TRUE,332
+FALSE,"What is the expected incidence of spinal hemangioblastomas in patients with Von-Hippel-Lindau?
+What is the expected incidence of Von-Hippel-Lindau in patients with spinal hemangioblastomas?",,,,"About one third of the patients with Von-Hippel-Lindau are expected to develop a spinal hemangioblastoma.
+And about one third of patients with a discovered spinal hemangioblastoma are expected to have underlying Von-Hippel-Lindau.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,333
+FALSE,What is one feature to help differentiate spinal astrocytomas from ependymoma on MR imaging.,,,,"Ependymomas are well defined intramedullary lesions, while astrocytomas typically have poor defined margins.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,334
+FALSE,What intramedullary spine lesion is associated with neurofibromatosis type 1?,,,,Astrocytomas are associated with neurofibromatosis type 1.,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,335
+FALSE,What intramedullary spine lesion is associated with neurofibromatosis type 2?,,,,Ependymomas are associated with neurofibromatosis type 2.,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,336
+FALSE,"An intramedullary spinal cord tumor demonstrates involvement of the entire cross-sectional diameter of the spinal cord.
+What neoplasm should this finding raise suspicion for?",,,,"Spinal cord astrocytoma, which characteristically infiltrates the cord and often expands it circumferentially, in contrast to more eccentrically located lesions, such as ependymomas.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,337
+TRUE,"What is this spinal lesion?
+What feature is most concerning?","0139a.png, 0139b.png",,,"This is a poorly marginated enhancing intramedullary mass in the cervical spinal cord of a child, likely representing an astrocytoma. There is suggestion of necrosis raising concern for a high-grade astrocytoma. ",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,338
+TRUE,How may diffusion tensor imaging be utilized to determine how well a lesions can be resected?,0140.png,,,"There is some research indicating that low grade astrocytomas will displace surrounding fibers outwardly, like in the image on the right of the screen.
+While high grade astrocytomas or ependymomas will be more infiltrative, like in the image on the left of the screen.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,339
+FALSE,"Where are spinal hemangioblastomas typically located, longitudinally, and along the axial plane?
+What tissue origin are hemangioblastomas?",,,,"Hemangioblastoma are vascular stromal in origin, and arise from the pial layer of the spinal cord.
+This explains why they are predominantly seen along the dorsal aspect of the cord.
+Hemangioblastomas are most commonly seen in the thoracic spine, followed by the cervical spine.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,340
+FALSE,"When can you see cases of intradural, extramedullary hemangioblastoma?",,,,"In cases of Von-Hippel Lindau disease, there can be numerous spinal hemangioblastomas and in these cases, intradural, extramedullary hemangioblastomas can be seen.",0141.png,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,341
+FALSE,What temporal bone lesion can be seen more commonly in patients with von Hippel Lindau disease?,,,,Endolymphatic sac tumors. These are can be bilateral in 30% of cases in patients with von Hippel-Lindau.,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,342
+FALSE,What are the most common cancers to metastasize to the intramedullary spinal cord.,,,,"While metastatic disease to the spinal cord is rare.
+Lung cancer mets are the most common, followed by breast cancer.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,343
+FALSE,"Is it common to see spinal cord ischemia, in the setting of spinal cord compression?",,,,"No, spinal cord ischemia in a case of spinal cord compression would be unusual.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,344
+FALSE,Should the lumbar spine be included when evaluate for spinal lesions in a patient with multiple sclerosis?,,,,"No, evaluation of the lumbar spine in patients with known multiple sclerosis is not necessary because MS does not affect the nerve roots.",,,,Neuroradiology,Spine,spine inflammatory,,TRUE,345
+TRUE,"This patient has a Chiari type 1 malformation.
+A dynamic CSF flow study is performed.
+What is the abnormality?",0142.png,,,"There is cervical syringomyelia, and the CSF flow study demonstrates reduced cerebrospinal fluid flow across the foramen magnum, consistent with obstructed CSF. These findings support the indication for a posterior fossa decompression to restore CSF flow and reduce the risk of progressive syrinx enlargement and irreversible neurologic deficits.",,,,Neuroradiology,Brain,congenital brain malformation,,TRUE,346
+TRUE,"This patient with Chiari type 1 malformation has undergone a suboccipital decompression and duraplasty.
+What does the dynamic CSF flow study indicate?",0143.png,,,"There is appropriate flow of CSF through the foramen magnum, indicating successful surgical decompression.",,,,Neuroradiology,Brain,congenital brain malformation,,TRUE,347
+TRUE,"This patient has a syrinx.
+What is the possible cause.
+What study should be done next?",0144.png,,,"This is likely a benign cord syrinx, likely congenital in origin.
+A cervical spine MR with contrast should be performed to exclude a possible small enhancing nodule, like in hemangioblastoma.",,,,Neuroradiology,Brain,congenital brain malformation,,TRUE,348
+FALSE,What is a spinal neuroenteric cyst?,,,,Frank Galliard,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,349
+FALSE,"How to differentiate a spinal neuroenteric cyst from an arachnoid cyst, and an epidermoid cyst?",,,,"All of these lesions will be well circumscribed and T2 bright.
+However an arachnoid cyst will completely suppress on FLAIR imaging, while a neuroenteric cyst will have some remaining signal.
+And an epidermoid cyst will have profound diffusion restriction, while a neuroenteric cyst will not.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,350
+TRUE,"Hispanic patient with bilateral hand weakness in the hands.
+What is this?",0145.png,medality,Dave Yousem,"There is predominantly cystic lesion with surrounding edema and a ring of peripheral enhancement in the lower cervical spine. Within the cystic component there is a small dot of T2 hypointensity which corresponds to a scolex in this patient with cysticercosis, a parasitic infection from the pork tapeworm (Taenia solium). Other differentials that could have been considered would be an atypical metastatic lesion or possibly an atypical demyelinating lesion.",0146.png,https://www.instagram.com/p/DMdx-dINRdp/,Instagram: @the_neuroradiologist,Neuroradiology,Spine,spinal neoplasms,,TRUE,351
+FALSE,What are the characteristic findings of spinal sarcoidosis?,,medality,Dave Yousem,"Spinal sarcoidosis classically shows long-segment intramedullary T2 hyperintensity with  subpial and leptomeningeal enhancement, with extension into the dorsal cord. This is often multifocal and associated with systemic disease.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,352
+FALSE,"In HIV patients what is the most common opportunistic pathogen to involve the spine, including the vertebrae and discs.
+What is the most common opportunistic pathogen in affect the spinal cord specifically? ",,,,"Tuberculosis is the most common pathogen to affect the spine in patients with HIV.
+CMV is the most common opportunistic pathogen to involve the spinal cord in HIV patients.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,353
+FALSE,In Baastrup's disease what ligaments are degenerated?,0148.png,,,In Baastrup's disease chronic lumbar degenerative changes have lead to loss of disc space height and pronounced lordosis resulting in degeneration of the posterior elements and subsequent degeneration of the interspinous ligaments.,,,,Neuroradiology,Spine,degenerative spine,,TRUE,354
+FALSE,When does delayed radiation myelopathy typically occur?,,,,Between 6 and 24 months.,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,355
+TRUE,What is this?,0149.png,,,"Multiple flattened vertebral bodies, which is called Platyspondyly
+This can be seen in disease such as osteogenesis imperfecta or Morquio syndrome.",,,,Neuroradiology,Spine,spine congenital,,TRUE,356
+TRUE,"Post contrast sagittal T1 image of the cervical spine.
+What is this lesion?",0150.png,,,"Along the ventral spinal cord there is focal, non-enhancing, intradural, extramedullary lesion, with mild T1 signal. This is not a meningioma or schwannoma because they would enhance. A dermoid would be T1 hyperintensity due to fat. An arachnoid cyst would be essential the same signal intensity of the surrounding CSF. This lesions is likely a neuroenteric cyst.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,357
+TRUE,"This is 50 year old male.
+What is this lesion?","0151a.png, 0151b.png, 0151c.png",,,"This is a T1 hypointense, T2 hyperintense, enhancing lesion extending through the cortex. This likely a chordoma, however this is an unusual location.
+Chordomas typically occur at the clivus.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,358
+TRUE,What is this lesion most likely?,"0152a.png, 0152b.png, 0152c.png",,,"There is a small nodule of enhancement along the dorsal aspect of the spinal cord with adjacent edema and possibly tiny cystic lesion. This is likely a hemangioblastoma based on its position and location within the spinal cord. However, an ependymoma or astrocytoma can never be definitely excluded based on imaging alone.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,359
+TRUE,"This is a 15 year old male.
+No history of trauma.
+What is the cause of this kyphosis?",0153.png,https://radiopaedia.org/cases/scheuermann-disease-6,Frank Gaillard,There is pronounced kyphosis in this older child due to anterior wedging deformities of multiple thoracic vertebrae. These findings are consistent with an entity called Scheuermann disease.,,,,Neuroradiology,Spine,spine general,,TRUE,360
+TRUE,What is this?,"0154a.png, 0154b.png, 0154c.png",https://radiopaedia.org/cases/spinal-arachnoid-cyst-causing-cord-compression,Amro Omar,"There is a ventral, intradural, extramedullary, non-enhancing, cystic lesion, with the same intensity as the surrounding CSF causing mass effect on the spinal cord. This lesion is consistent with an arachnoid cyst.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,361
+TRUE,What is this lesion?,"0155a.png, 0155b.png, 0155c.png, 0155d.png",https://radiopaedia.org/cases/spinal-cavernoma-1,Henry Knipe,"There is intramedullary mass in the dorsal spinal cord.
+It is T1 hypointense and T2 heterogeneous with a dark T2 tim.
+There is mildly increased T1 and T2 signal within the spinal cord surrounding the lesions suggestive of edema, possibly from a recent hemorrhage.
+There is no significant enhancement.
+There is linear blooming artifact on GRE images.
+This findings are consistent with a spinal cavernous malformation.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,362
+FALSE,What are the two Spetzler classifications of spinal vascular malformations?,,,,"Type 1, which is a spinal dural arteriovenous fistula, and is more commonly seen in older men.
+These do not contain a vascular nidus within the spinal cord and cause issues due to vascular congestion mass effect on the spinal cord.
+Type 2 spinal vascular malformations are intramedullary AVMs, and are located within the spinal cord, and typically seen in younger patients. These patients often present with acute neurologic deficits following an AVM hemorrhage within the spinal cord.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,363
+FALSE,"What vessels do the radiculomedullary arteries arise from?
+Is there a radiculomedullary artery at every spinal level?
+",,,,"No, only at a few levels of the thoracolumbar spine, usually around 6 to 10 total.
+The radiculomedullary arteries arise from the segmental arteries and join the longitudinal arteries of the spine, which are the anterior spinal artery and the two posterior spinal arteries.
+The largest radiculomedullary artery is the artery of Adamkiewicz which typically supplies the lower thoracic and upper lumbar spine.",0156.png,,,Neuroradiology,Spine,spine general,,TRUE,364
+TRUE,"This MR is of a 30 year old female with rheumatoid arthritis, presenting with neck pain.
+What is the cause of her neck pain.
+",0157.png,,,"The atlanto-dental interval is increased.
+There is also contrast enhancement of the atlanto-odontoid space and around the dens.
+These findings indicate synovitis and surrounding inflammation, likely representing atlantoaxial rheumatoid arthritis with anterior subluxation.",,,,Neuroradiology,Spine,degenerative spine,,TRUE,365
+TRUE,"This is a 30 year old female with rheumatoid arthritis, presenting with neck pain.
+What is the abnormality?",0158.png,,,"There is fluid signal and enhancement within the atlantodental space with associated subluxation.
+These findings indicate synovitis with surrounding inflammation in the setting of atlantoaxial rheumatoid arthritis with anterior subluxation.",,,,Neuroradiology,Spine,degenerative spine,,TRUE,366
+FALSE,"Most common locations of a chordoma?
+What are the typical MR features of a chordoma?",,,,"The sacrococcygeal region is the most common location of a chordoma, followed by the sphenooccipital and clival region, and less commonly, the mobile spine vertebrae.
+Chordomas are often lobulate with multiple septations, and are T2 hyperintense.
+As they grow they cause osseous destruction. 
+Enhancement can be variable, from trace to intense enhancement.
+Chordoma can sometimes appear similar to chondrosarcomas, however chondrosarcomas often involve the neural arch, while chordomas involve the vertebral bodies.",0159.png,"Diagnostic Imaging: Spine (4th edition), page 728","Jeffrey Ross
+",Neuroradiology,Spine,spinal neoplasms,,TRUE,367
+FALSE,What tissues does a chordoma originate from?,,,,Chordomas are a malignant tumor arising from notochord remnants.,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,368
+FALSE,Typical age range in patients with a chordoma?,,,,"Patients with a chordoma are usually between 50 and 70 years old.
+Chordomas are rarely seen in patient younger than 40.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,369
+FALSE,What are the most common intradural extramedullary neoplastic spine lesions?,,,,Schwannomas and meningiomas.,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,370
+FALSE,"This trauma patient was involved in a motor vehicle accident.
+What are the concerning findings?",0161.png,radprimer,,"There is extensive paravertebral soft tissue edema and swelling.
+The right vertebral artery flow void is obstructed indicating a vertebral artery dissection.
+There is edema of the para spinal cord raising concern for cord infarct due to hypoperfusion secondary to the vertebral artery dissection.
+",0162.png,radprimer,,Neuroradiology,Spine,spine trauma,,TRUE,371
+TRUE,What is this lesions?,"0163a.png, 0163b.png, 0163c.png",radprimer,,"Intramedullary lesions at the medullary cervical cord junction with a T2 hypointense rim.
+This is not an ependymoma with a hemosiderin cap sign, because there is no edema surrounding the lesion, and would be atypical for an ependymoma.
+This is a cavernous malformation.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,372
+FALSE,What are the three Modic types used to indicate degenerative changes seen in the vertebral body endplates on MR.,,,,"Type 1 Modic changes are T1 dark, and T2 bright, indicating edema.
+Type 2 Modic changes are T1 bright, and T2 bright, indicating fatty marrow replacement.
+Type 3 Modic changes are T1 dark, and T2 dark, indicating sclerotic changes.",0164.png,,,Neuroradiology,Spine,degenerative spine,,TRUE,373
+FALSE,Is enhancement in an osteochondroma concerning?,,,,"No, not particularly.
+Mild peripheral and septal enhancement or enhancement of a thin cartilaginous cap is expected.
+Enhancement can become concerning when there is thick cartilaginous cap enhancement, or new diffuse enhancement.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,374
+FALSE,"With MR imaging, do the images appear better if the signal-to-noise ratio is high or low? ",,,,"A high signal-to-noise ratio indicates better appearing images.
+While a low signal-to-noise ratio indicates images that appear poor.",,,,Physics,MR physics,MR physics,,TRUE,375
+FALSE,"What is this MR bandwidth?
+How does a MR bandwidth affect the signal-to-noise ratio?",,,,"MR bandwidth is the range of frequencies per pixel accepted during signal readout.
+A high bandwidth will lead to a lower signal-to-noise ratio, but is less sensitive to frequency shifts and artifacts.
+A low bandwidth will lead to a higher signal-to-noise ratio, producing better images, but it more sensitive to artifact.
+",,,,Physics,MR physics,MR physics,,TRUE,376
+FALSE,"In MR physics, what is signal readout?",,,,Signal readout is the period when MR signal is sampled under the frequency-encoding gradient to encode spatial position.,,,,Physics,MR physics,MR physics,,TRUE,377
+FALSE,List a few methods to decrease metallic artifact in MR?,,,,"Using a lower field strength magnet, such as a 1.5 tesla magnet instead of 3 tesla magnet will produce lower signal-to-noise ratio images, and reduce metallic artifact.
+Increasing bandwidth, which will also decrease the signal-to-noise ratio, making the the images less sensitive to artifact.
+Shortening the echo time can help reduce metallic artifact.
+Also orienting the frequency encoding direction in parallel to the long axis of the metallic device can help reduce metallic artifact. 
+Increasing the field of view and decreasing the voxel size can help reduce metallic artifact.
+",,,,Physics,MR physics,MR physics,,TRUE,378
+TRUE,"Teenage boy with scoliosis complains of back pain.
+A CT myelogram and nuclear bone scan are available.
+What is this lesion?","0165a.png, 0165b.png",,,"There is reactive sclerotic and lytic osseous changes around the right facet with elevated uptake of the radiotracer on bone scan.
+Given the patient's age and history of scoliosis, an osteoid osteoma is a probable lesion. An osteoblastoma is also possible.
+",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,379
+TRUE,"This is the ""target sign"", with an increased T2 intensity along the periphery and a T2 hypointense center. 
+What lesion is associated with this sign.
+
+",0167.png,https://radiopaedia.org/cases/peripheral-nerve-sheath-tumour-of-s1-nerve-root,Ammar Haouimi,"The ""Target sign"", is most commonly associated with neurofibromas, however it can also be seen occasionally with schwannomas and malignant peripheral nerve sheath tumors.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,380
+FALSE,What are the seven major criteria for neurofibromatosis type 1.,,,,"Diagnosis of neurofibromatosis type 1 must include 2 or more of the following:
+
+6 or more café-au-lait spots.
+Axillary or inguinal freckling, called the Crowe sign.
+Spinal or sphenoid wing dysplasia.
+2 or more neurofibromas of any type or a single plexiform neurofibroma.
+An optic pathway glioma.
+2 or more Lisch nodules with are iris hamartomas of the eye.
+First-degree relative with a diagnosis of neurofibromatosis.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,381
+FALSE,"What are the nerve sheath tumors?
+Which one is more common?",,,,"Schwannomas and neurofibromas.
+Schwannomas are more common.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,382
+FALSE,Are nerve sheath tumors more often intradural or extradural?,,,,"Nerve sheath tumors or more commonly intradural.
+They are extradural in about 15% of cases.
+In another 15% of cases nerve sheath tumors can be both intradural and extradural giving the lesion a characteristic ""dumbbell shape"" appearance.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,383
+FALSE,What lesions are associated with neurofibromatosis type 2?,,,,"Using the mnemonic ""MISME""
+Multiple inherited schwannomas, meningiomas, and ependymomas. ",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,384
+TRUE,"This patient has these multiple extradural and intradural, intramedullary lesions.
+What condition does this patient likely have?",0168.png,medality,,"There are multiple extradural schwannomas just outside the neuroforamen, and in the paraspinal soft tissues.
+There is an intramedullary ependymoma in the bottom left image also.
+These findings of multiple schwannomas and an ependymoma indicate this patient has neurofibromatosis type 2.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,385
+FALSE,"If you see a single schwannoma in a patient, is this more likely to be a random sporadic lesions or associated with underlying neurofibromatosis type 2?",,,,"A single schwannoma is commonly seen sporadically, and does not infer neurofibromatosis type 2 in the presence of a single lesion.
+",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,386
+FALSE,What nerve sheath tumor is more likely to undergo malignant degeneration?,,,,Neurofibromas are much more likely to undergo malignant degeneration compared to schwannomas.,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,387
+FALSE,What percentage of neurofibromas occur in patients with NF1 compared with sporadic cases?,,,,"Approximately 90% of neurofibromas occur in patients with neurofibromatosis type 1, while about 10% arise as isolated sporadic lesions without NF1.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,388
+TRUE,"What feature indicates that this spinal lesions is intradural extramedullary and not intramedullary?
+What are these lesion most likely to be?",0169.png,"medality - spinal intradural, extremedullary lesions",David Yusem,"There is a ""meniscus sign"" where the flaring and widening of the CSF in the subarachnoid space above the lesion indicating its extramedullary position.
+In intramedullary lesions, there will be narrowing of subarachnoid space.
+The lumbar lesion has both cystic and solid components.
+These lesions are most likely schwannomas.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,389
+FALSE,"What spinal levels are schwannomas more commonly seen?
+What spinal levels are meningiomas most commonly seen?",,,,"Schwannomas are more commonly seen in the cervical and lumbar spinal levels.
+Whereas meningiomas are more commonly seen in the thoracic spine.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,390
+TRUE,What is this lesion most likely?,0170.png,"medality - spinal intradural, extremedullary lesions",David Yusem,"At the level of the L4 vertebrae there is a solid enhancing lesion, which near similar intensity on T1 and T2WI.
+Based on the T1 and T2 signal characteristics, a meningioma could be considered, however there is no enhancing dural tail.
+Therefore, this is most likely a schwannoma.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,391
+TRUE,"What is the location of the spinal lesion?
+What is this lesions most likely?",0178.png,"medality - spinal intradural, extremedullary lesions",David Yusem,"This an intradural, extramedullary spinal lesion with extradural extension through the neuroforamen, giving a characteristic ""dumbell shape"" appearance.
+This lesion is favored to represent a nerve sheath tumor, probably a schwannoma.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,392
+FALSE,What is the common demographics associated with meningiomas?,,,,"Females, between 50 and 70 years old.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,393
+FALSE,"Prior radiation therapy increases the risk of meningioma.
+What is the typical latency period between radiation exposure and meningioma development?",,,,Typical latency period of about 10 to 30 years after radiation exposure before meningiomas can develop.,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,394
+FALSE,What are the typical MR features of a spinal meningioma?,,,,"Meningiomas are typically isointense to the spinal on T1 and T2WI.
+There is avid enhancement.
+There is attachment to the dura, and there is often a visable dural tail.
+Only some spinal meningiomas will have calcifications, however, it atypical for any other intradural spinal lesion to have calcifications so this can be a specific feature for meningiomas when present.
+Meningiomas tend to cause hyperostosis and sclerosis of adjacent bon, compared to nerve sheath tumors which cause remodeling and erosion.
+",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,395
+TRUE,"This is a CT axial image of the lower cervical spine.
+What spinal lesion could this be?",0171.png,"medality - spinal intradural, extremedullary lesions",David Yusem,"There is an intradural, extramedullary spinal lesion on the left with some extension towards the left neuroforamen and causing displacement of the spinal cord towards the right.
+There are small scattered calcifications within the lesion.
+This is favored to be a meningioma due to internal calcifcations.
+",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,396
+TRUE,What is this spinal lesion?,0172.png,"medality - spinal intradural, extremedullary lesions",David Yusem,"There is an anterior intradural, extramedullary spinal lesion at the level C2 with a wide dural base, and enhancing dural tail.
+This is consistent with a meningioma.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,397
+FALSE,"What is the most common intramedullary spinal lesion associated with neurofibromatosis type 1?
+What about in neurofibromatosis type 2?",,,,"In neurofibromatosis type 1, the most common associated intramedullary spinal lesion is an astrocytoma.
+In neurofibromatosis type 2, the most common associated intramedullary spinal lesion is an ependymoma.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,398
+FALSE,What MR characteristics can help potentially differentiate a neurofibroma from a schwannoma?,,,,"The target sign is more common in neurofibromas, where there is a T2 hyperintense periphery and a T2 hypointense center.
+However, this is not very specific and can also be seen in schwannomas sometimes.
+Neurofibromas are less likely to be cystic compared to schwannomas.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,399
+TRUE,"This is a parasagital view of the lumbar spine.
+What spinal lesions do these likely represent?",0173.png,"medality - spinal intradural, extremedullary lesions",David Yusem,"These lesions have a characteristic ""target sign"" which can suggest neurofibromas.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,400
+TRUE,"This patient has neurofibromatosis type 1.
+What is this imaging finding called?",0174.png,https://radiopaedia.org/cases/dural-ectasia-4,Frank Gaillard,"There is posterior vertebral scalloping due to these neurofibromas causing widening of the dural sacs.
+This is called dural ectasia.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,401
+FALSE,"Besides neurofibromatosis, what other disease commonly causes dural ectasia, particularly involving the lumbar spine?",0175.png,https://radiopaedia.org/cases/dural-ectasia-in-marfan-syndrome-1,Franco Ruales,"Marfan syndrome, due to connective-tissue weakness of the dura from fibrillin 1 mutations.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,402
+TRUE,What is this lesion?,0176.png,"medality - spinal intradural, extremedullary lesions",David Yusem,"There is calcification that does not appear to communicate with the posterior vertebrae. There is a faint, sliver of calcification extending superiorly on the sagital view which may represent a dural tail.
+This lesions is favored to represent a meningioma.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,403
+TRUE,What is this spinal lesion?,"0177a.png, 0177b.png, 0177c.png","medality - spinal intradural, extremedullary lesions",David Yusem,"This is an intradural, extramedullary spinal lesions in the thoracic spine positioned posterior to the cord.
+There is broad based dural attachment.
+There is associated calcification and enhancement of the lesion.
+This is most certainly a spinal meningioma.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,404
+FALSE,Where are spinal paragangliomas typically located?,,,,Cauda equina and the filum terminale.,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,405
+FALSE,Can spinal hemangioblastoma be intradural extramedullary?,,,,"Yes, spinal hemangioblastomas can be intradural and extramedullary, however this less common than the typical intramedullary hemangioblastoma.
+When hemangioblastomas are extramedullary they are almost always associated with von Hippel-Lindau disease.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,406
+TRUE,"What is this spinal lesions?
+What should be included in the differential?","0179a.png, 0179b.png, 0179c.png, 0179d.png",https://radiopaedia.org/cases/myxopapillary-ependymoma,Frank Gaillard,"Centered at the level of L2 there is an intradural mass, with avid heterogenous enhancement.
+It is not intramedullary because we are in the lower spine.
+The lesion is likely a myxopapillary ependymoma, schwannoma,  paraganglioma. 
+",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,407
+TRUE,"This patient has a history of a prior medulloblastoma that was resected.
+What are these spinal lesions? ",0180.png,"medality - spinal intradural, extremedullary lesions",David Yusem,These are leptomeningeal drop metastases.,,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,408
+TRUE,"This is an intradural, extramedullary, spinal lesions centered at the level of L4-L5.
+The lesion is T1 hypointense, and T2 hyperintense, which appears similar to CSF.
+Post contrast and DWI images are not available, but there is no enhancement and there is pronounced diffusion restriction.
+These findings are consistent with an epidermoid cyst. 
+What is possible risk factor in developing an epidermoid cyst, especially at this spinal level.","0181a.png, 0181b.png, 0181c.png, 0181d.png",radprimer,,"Lumbar punctures, particularly in pediatric patients, increases the risk of developing a spinal epidermoid cyst in the future, due to the unintended implantation of epithelial tissue into the thecal sac.",,,,Neuroradiology,Spine,spinal neoplasms,,TRUE,409
+FALSE,What is a orthotopic os odontoideum compared to a dystopic os odontoideum?,,,,"A dystopic os odontoideum is when the ossicle is fused to the basion.
+An orthotopic os odontoideum is diagnosed when the ossicle moves with the anterior arch of C1.",,,,Neuroradiology,Spine,spine congenital,,TRUE,410
